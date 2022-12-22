@@ -1,0 +1,1501 @@
+S.N.,Roll No,,Applicant Name,Gender,District,,Rank,,p1,p2,p3,p4,p5,p6,,p7,p8,p9,p10,p11,p12,p13,p14,Remark
+1342,1630,,SUJAL MAINALI,Male,Jhapa,,67,,11,,,,,,,,,,,,,,,
+227,1773,,ARYAN SILAWAL,Male,Sindhupalchok,,96,,11,,,,,,,,,,,,,,,
+979,878,,RIMESH BIR SINGH,Male,Kathmandu,,100,,11,12,,,,,,,,,,,,,,
+1372,3666,,SUNIL BAHADUR MAHATA,Male,Kailali,,101,,11,,,,,,,,,,,,,,,
+59,2339,,AAYUSH PANDEY,Male,Kanchanpur,,109,,11,,,,,,,,,,,,,,,
+1425,3115,,SUYASH ADHIKARI,Male,Morang,,138,,11,12,,,,,,,,,,,,,,
+305,4222,,BHUWAN DHITAL,Male,Jumla,,140,,1,,,,,,,,,,,,,,,
+1068,2143,,SACHITA ARYAL,Female,Chitawan,,143,,11,,,,,,,,,,,,,,,"Open, Female Quota"
+58,1335,,AAYUSH PANDEY,Male,Rupandehi,,144,,11,7,,,,,,,,,,,,,,
+266,3135,,AYUSH BASHYAL,Male,Palpa,,155,,11,12,,,,,,,,,,,,,,
+129,3996,,AMAN DHAUBANJAR,Male,Bhaktapur,,163,,11,,,,,,,,,,,,,,,
+171,214,,ANKITA SHAH,Female,Dhanusha,,172,,11,,,,,,,,,,,,,,,"Open, Female Quota"
+958,2773,,RAKESH SHRESTHA,Male,Jhapa,,173,,11,12,,,,,,,,,,,,,,
+1407,2691,,SUSHIL ADHIKARI,Male,Syangja,,177,,1,,,,,,,,,,,,,,,
+700,3415,,NIDAN POUDEL,Male,Lalitpur,,182,,11,,,,,,,,,,,,,,,
+362,843,,BINOD PANDEY,Male,Arghakhanchi,,183,,11,,,,,,,,,,,,,,,
+1164,67,,SANJAY SHRESTHA,Male,Baglung,,195,,11,12,,,,,,,,,,,,,,
+625,199,,LAXMI PRASAD CHAULAGAIN,Male,Kailali,,202,,1,,,,,,,,,,,,,,,
+714,3522,,NIRAJ KARKI,Male,Kanchanpur,,203,,11,12,,,,,,,,,,,,,,
+442,1628,,DINESH GAIRE,Male,Palpa,,204,,11,,,,,,,,,,,,,,,
+1029,5699,,ROSHAN KHAREL,Male,Rupandehi,,208,,1,,,,,,,,,,,,,,,
+879,7972,,PRATYOUSH SILWAL,Male,Kathmandu,,209,,11,,,,,,,,,,,,,,,
+311,236,,BIBEK BOHARA,Male,Doti,,210,,1,2,,,,,,,,,,,,,,
+1079,1587,,SAGAR KATWAL,Male,Okhaldhunga,,212,,1,,,,,,,,,,,,,,,
+890,771,,PRINCE SHAH,Male,Mahottari,,213,,1,2,,,,,,,,,,,,,,
+503,4659,,HIMAL ADHIKARI,Male,Morang,,218,,11,9,,,,,,,,,,,,,,
+885,934,,PREM RAJ SHRESTHA,Male,Kaski,,219,,7,11,,,,,,,,,,,,,,
+1319,4729,,SUBASH TRIPATHI,Male,Dhading,,222,,1,,,,,,,,,,,,,,,
+791,1201,,PRACHUN SHRESTHA,Male,Chitawan,,223,,11,12,,,,,,,,,,,,,,
+589,2081,,KRISHNA DHANUK,Male,Kailali,,224,,11,,,,,,,,,,,,,,,
+794,1351,,PRADIP POKHREL,Male,Nawalparasi East,,226,,11,,,,,,,,,,,,,,,
+653,2617,,MANOJ DHANUK,Male,Kanchanpur,,228,,11,,,,,,,,,,,,,,,
+686,1020,,NABIN KOIRALA,Male,Syangja,,229,,9,,,,,,,,,,,,,,,
+1495,3143,,YOJANA THAPA,Female,Sindhuli,,230,,11,12,,,,,,,,,,,,,,"Open, Female Quota"
+1483,5540,,UTTAM SAPKOTA,Male,Baglung,,232,,1,,,,,,,,,,,,,,,
+1394,5174,,SURAJ KALAKHETI,Male,Sankhuwasabha,,233,,1,,,,,,,,,,,,,,,
+5,233,,AADITYA KUMAR SINGH,Male,Dhanusha,,234,,11,12,,,,,,,,,,,,,,
+1422,637,,SUVANKAR YADAV,Male,Siraha,,237,,11,12,,,,,,,,,,,,,,
+1347,2173,,SUJAN BIMALI,Male,Jhapa,,242,,11,12,7,1,9,,,,,,,,,,,
+156,597,,ANISH KUMAR SINGH,Male,Dhanusha,,247,,11,12,,,,,,,,,,,,,,
+476,1494,,FADINDRA RAJ RIMAL,Male,Jhapa,,253,,1,2,,,,,,,,,,,,,,
+363,7768,,BINOD RAWAT,Male,Jumla,,254,,1,,,,,,,,,,,,,,,
+143,1244,,AMOL DANGI,Male,Kathmandu,,255,,11,12,,,,,,,,,,,,,,
+415,2471,,DEEP SHRESTHA,Male,Chitawan,,256,,11,12,,,,,,,,,,,,,,
+1306,5240,,SPANDAN BHUSAL,Male,Kathmandu,,257,,11,1,,,,,,,,,,,,,,
+592,128,,KRISHNA PRASAD NEUPANE,Male,Dailekh,,260,,1,,,,,,,,,,,,,,,
+711,3901,,NINAMHANG KULUNG,Male,Terhathum,,261,,11,12,,,,,,,,,,,,,,
+959,265,,RAKESH YADAV,Male,Bara,,266,,11,1,,,,,,,,,,,,,,
+618,1921,,KUSUM DANGI,Female,Dang,,267,,1,2,,,,,,,,,,,,,,"Open, Female Quota"
+966,1232,,RANJAN KHATIWADA,Male,Sunsari,,270,,1,,,,,,,,,,,,,,,
+560,274,,KAPIL ADHIKARI,Male,Kaski,,272,,11,12,,,,,,,,,,,,,,
+1260,4534,,SHRIJAN BHANDARI,Male,Gulmi,,274,,11,12,,,,,,,,,,,,,,
+1084,5173,,SAGAR REGMI,Male,Jhapa,,275,,11,,,,,,,,,,,,,,,
+800,534,,PRAJAN KC,Male,Dang,,276,,1,2,,,,,,,,,,,,,,
+724,6169,,NIRIKA LAMICHHANE,Female,Chitawan,,277,,11,12,,,,,,,,,,,,,,"Open, Female Quota"
+943,5075,,RAJEEV POKHREL,Male,Dang,,278,,1,,,,,,,,,,,,,,,
+1103,1700,,SAMAY BHATTARAI,Male,Dang,,279,,11,,,,,,,,,,,,,,,
+120,6963,,ALEX RAJBAHAK,Male,Kathmandu,,281,,9,,,,,,,,,,,,,,,
+628,2795,,LOKENDRA PRASAD NEUPANE,Male,Kailali,,283,,1,7,,,,,,,,,,,,,,
+574,1597,,KHUSHI KHATI,Female,Kanchanpur,,284,,11,,,,,,,,,,,,,,,"Open, Female Quota"
+502,1075,,HEMANTA BHUSAL,Male,Nawalparasi West,,285,,11,12,,,,,,,,,,,,,,
+510,835,,HIMANSHU JHA,Male,Mahottari,,286,,1,2,,,,,,,,,,,,,,
+643,1154,,MANISH BISTA,Male,Dang,,287,,11,1,,,,,,,,,,,,,,
+671,1855,,MOHIT DHAKAL,Male,Tanahun,,288,,1,2,,,,,,,,,,,,,,
+645,1142,,MANISH KHADKA,Male,Sunsari,,293,,11,,,,,,,,,,,,,,,
+1082,2472,,SAGAR PAUDEL,Male,Rupandehi,,294,,11,12,,,,,,,,,,,,,,
+288,7316,,BASANT RAJ PANDEY,Male,Kailali,,295,,1,2,,,,,,,,,,,,,,
+334,4730,,BIJAY SENCHURI,Male,Salyan,,296,,1,,,,,,,,,,,,,,,
+242,2408,,ASHUTOSH POKHREL,Male,Sindhuli,,298,,7,,,,,,,,,,,,,,,
+223,2317,,ARUN PANKAJ BHATTA,Male,Kanchanpur,,301,,7,,,,,,,,,,,,,,,
+1028,5010,,ROSHAN CHAUDHARY,Male,Jhapa,,302,,11,,,,,,,,,,,,,,,
+146,1908,,AMRIT SAPKOTA,Male,Rupandehi,,305,,11,12,,,,,,,,,,,,,,
+630,411,,LOKRAJ PYAKUREL,Male,Jumla,,306,,1,11,,,,,,,,,,,,,,
+1176,3258,,SAROJ PRAKASH BHATT,Male,Kanchanpur,,308,,11,12,,,,,,,,,,,,,,
+496,139,,GYANENDRA SILWAL,Male,Dhading,,309,,11,12,,,,,,,,,,,,,,
+423,509,,DEVRAJ THAKUR,Male,Mahottari,,310,,1,,,,,,,,,,,,,,,
+1025,417,,ROSHAN BHATT,Male,Darchula,,312,,11,7,19,,,,,,,,,,,,,
+406,2076,,CHIRANJIVEE SUBEDI,Male,Sarlahi,,313,,1,,,,,,,,,,,,,,,
+341,1858,,BIKASH BHANDARI,Male,Jhapa,,314,,1,2,,,,,,,,,,,,,,
+484,1165,,GAURAB POUDEL,Male,Kaski,,315,,11,,,,,,,,,,,,,,,
+473,409,,DURGA PANDEY,Female,Makwanpur,,316,,1,2,,,,,,,,,,,,,,"Open, Female Quota"
+1382,831,,SUNNY SAH,Male,Siraha,,318,,1,2,,,,,,,,,,,,,,
+73,5202,,ABHASH ADHIKARI,Male,Jhapa,,319,,1,2,,,,,,,,,,,,,,
+861,1365,,PRASUN SHIWAKOTI,Male,Kathmandu,,320,,11,,,,,,,,,,,,,,,
+1247,4634,,SHREYA ADHIKARI,Female,Tanahun,,321,,11,12,,,,,,,,,,,,,,"Open, Female Quota"
+953,328,,RAJIT DAHAL,Male,Kavrepalanchok,,322,,1,,,,,,,,,,,,,,,
+849,1902,,PRASHANT PAUDEL,Male,Rupandehi,,323,,1,2,,,,,,,,,,,,,,
+932,2866,,RAJ SUJAKHU,Male,Bhaktapur,,324,,11,,,,,,,,,,,,,,,
+571,3063,,KAUSTUV MALLA PRADHANAN,Male,Bhaktapur,,326,,11,12,,,,,,,,,,,,,,
+332,679,,BIGYAN ARYAL,Male,Rupandehi,,327,,11,12,,,,,,,,,,,,,,
+1195,7926,,SAURAB POUDEL,Male,Parbat,,328,,11,12,,,,,,,,,,,,,,
+1003,442,,ROHAN DHAKAL,Male,Kavrepalanchok,,330,,11,12,,,,,,,,,,,,,,
+1167,201,,SANJAYA SAPKOTA,Male,Baglung,,332,,11,12,,,,,,,,,,,,,,
+114,5394,,AKRURMANI PAUDEL,Male,Chitawan,,333,,1,2,,,,,,,,,,,,,,
+784,8853,,PRABESH WAIBA,Male,Rautahat,,335,,1,,,,,,,,,,,,,,,
+1163,5662,,SANJAY KUMAR MEHARA,Male,Siraha,,336,,1,,,,,,,,,,,,,,,
+1378,3289,,SUNIL POUDEL,Male,Kaski,,341,,11,,,,,,,,,,,,,,,
+1238,5601,,SHOVIYAT CHAPAGAIN,Male,Chitawan,,342,,11,12,,,,,,,,,,,,,,
+168,3154,,ANKIT DHUNGANA,Male,Kaski,,343,,11,1,12,,,,,,,,,,,,,
+518,32,,HRIDAYANSHU RAJ ACHARYA,Male,Kathmandu,,344,,11,12,,,,,,,,,,,,,,
+1245,1024,,SHREEVATSA ACHARYA,Male,Morang,,345,,11,12,,,,,,,,,,,,,,
+302,436,,BHUSHAN NEPAL,Male,Jhapa,,348,,11,12,,,,,,,,,,,,,,
+355,2825,,BINAYAK PAUDEL,Male,Chitawan,,349,,1,,,,,,,,,,,,,,,
+216,5027,,ARPAN SAPKOTA,Male,Sindhupalchok,,350,,1,2,,,,,,,,,,,,,,
+684,1387,,NABIN KAFLE,Male,Morang,,351,,11,,,,,,,,,,,,,,,
+269,3118,,AYUSH OJHA,Male,Kanchanpur,,352,,11,7,,,,,,,,,,,,,,
+954,450,,RAJU BAHARDAR,Male,Morang,,353,,1,2,,,,,,,,,,,,,,
+1389,942,,SURAJ ACHARYA,Male,Arghakhanchi,,354,,1,2,,,,,,,,,,,,,,
+964,976,,RAMESH OLI,Male,Dadeldhura,,355,,11,12,1,,,,,,,,,,,,,
+1430,3314,,SWAGAT NEPAL,Male,Kavrepalanchok,,356,,11,12,,,,,,,,,,,,,,
+703,305,,NIKET KUMAR RAY,Male,Sarlahi,,358,,1,,,,,,,,,,,,,,,
+1055,355,,SABIN KHATRI,Male,Bhojpur,,359,,1,2,,,,,,,,,,,,,,
+802,2693,,PRAJIT THAPA,Male,Kathmandu,,360,,11,12,7,1,8,2,,,,,,,,,,
+100,284,,ABRITI TIWARI,Female,Syangja,,361,,1,2,,,,,,,,,,,,,,"Open, Female Quota"
+392,4158,,BISIM NIRAULA,Male,Jhapa,,362,,1,2,,,,,,,,,,,,,,
+629,6513,,LOKESH YADAV,Male,Siraha,,363,,12,7,8,,,,,,,,,,,,,
+1359,248,,SUMAN DHUNGEL,Male,Dolakha,,365,,11,12,,,,,,,,,,,,,,
+762,180,,PANKAJ KUMAR MEHTA,Male,Sunsari,,366,,11,7,,,,,,,,,,,,,,
+1185,2716,,SASHMIN ADHIKARI,Male,Morang,,367,,11,12,,,,,,,,,,,,,,
+187,2237,,ANUJ KHATAKHO,Male,Bhaktapur,,370,,11,,,,,,,,,,,,,,,
+258,2342,,AVINASH JOSHI,Male,Dadeldhura,,371,,11,12,,,,,,,,,,,,,,
+1424,1857,,SUYASH ACHARYA,Male,Kaski,,372,,7,1,,,,,,,,,,,,,,
+478,3229,,GANPATI ROY MAJHI,Male,Saptari,,373,,1,2,,,,,,,,,,,,,,
+732,82,,NISCHAL NEUPANE,Male,Nuwakot,,376,,1,2,,,,,,,,,,,,,,
+1219,540,,SHEKH SAJID,Male,Rautahat,,377,,1,2,,,,,,,,,,,,,,
+702,1183,,NIHARIKA BHATTARAI,Female,Pyuthan,,378,,1,,,,,,,,,,,,,,,"Open, Female Quota"
+22,518,,AARON K.C.,Male,Dang,,379,,11,12,,,,,,,,,,,,,,
+769,401,,PAWAN KHANAL,Male,Kapilbastu,,382,,1,2,,,,,,,,,,,,,,
+1166,684,,SANJAYA LIMBU,Male,Terhathum,,385,,1,2,,,,,,,,,,,,,,
+991,5265,,RITU RAJ ADHIKARI,Male,Kathmandu,,386,,12,1,2,,,,,,,,,,,,,
+742,1434,,NISHANTA BALAMI,Male,Makwanpur,,388,,7,,,,,,,,,,,,,,,
+608,1806,,KSHITIJ BHANDARI,Male,Kathmandu,,391,,7,1,11,,,,,,,,,,,,,
+141,6366,,AMIT THAKUR,Male,Sarlahi,,392,,1,2,,,,,,,,,,,,,,
+296,7941,,BHISHM PRASAD BHANDARI,Male,Kanchanpur,,393,,11,12,,,,,,,,,,,,,,
+834,5021,,PRASAMAN PARAJULI,Male,Chitawan,,394,,12,,,,,,,,,,,,,,,
+128,5030,,AMAN BHUSAL,Male,Arghakhanchi,,395,,1,2,,,,,,,,,,,,,,
+293,2100,,BHASKAR BHATT,Male,Baitadi,,396,,7,,,,,,,,,,,,,,,
+764,192,,PARBAT PANDEY,Male,Dang,,397,,11,12,,,,,,,,,,,,,,
+881,2168,,PRAZWAL CHAPAGAIN,Male,Dhankuta,,399,,7,12,,,,,,,,,,,,,,
+667,1224,,MISHAN ROKAYA,Male,Bajhang,,401,,1,2,,,,,,,,,,,,,,
+1187,860,,SATYAM KUMAR JHA,Male,Rautahat,,402,,1,,,,,,,,,,,,,,,
+1043,1544,,RUBY BHATTARAI,Female,Syangja,,403,,1,,,,,,,,,,,,,,,"Open, Female Quota"
+462,4044,,DIPLAK DAHAL,Male,Dolakha,,404,,1,7,,,,,,,,,,,,,,
+280,6952,,BADAL YADAV,Male,Rautahat,,406,,1,2,,,,,,,,,,,,,,
+1460,3237,,UDIT SUBEDI,Male,Dhading,,407,,1,2,,,,,,,,,,,,,,
+1064,4754,,SACHIN NEUPANE,Male,Sindhupalchok,,408,,1,2,,,,,,,,,,,,,,
+1179,4513,,SARTHAK KARKI,Male,Kathmandu,,410,,1,2,,,,,,,,,,,,,,
+34,1476,,AASHISH SHARMA GAIRE,Male,Surkhet,,412,,1,2,,,,,,,,,,,,,,
+1077,1395,,SAGAR GUPTA,Male,Bara,,413,,11,12,,,,,,,,,,,,,,
+1044,4888,,RUBY KUMARI SAH,Female,Rautahat,,414,,11,12,7,,,,,,,,,,,,,"Open, Female Quota"
+783,4643,,PRABESH SILWAL,Male,Chitawan,,415,,11,12,1,2,,,,,,,,,,,,
+33,4429,,AASHISH POKHREL,Male,Dang,,416,,1,,,,,,,,,,,,,,,
+1048,2132,,RUPANTER THAPA,Male,Lalitpur,,417,,1,2,,,,,,,,,,,,,,
+371,915,,BIPLAV GYAWALI,Male,Gulmi,,418,,1,12,,,,,,,,,,,,,,
+1472,714,,UPASON PANDEY,Male,Arghakhanchi,,419,,1,2,,,,,,,,,,,,,,
+325,6121,,BIBEK SAH,Male,Siraha,,422,,1,2,,,,,,,,,,,,,,
+570,269,,KAUSHIK RAYAMAJHI,Male,Nawalparasi,,425,,11,12,,,,,,,,,,,,,,
+965,1115,,RAMESH PAL,Male,Dadeldhura,,426,,1,2,,,,,,,,,,,,,,
+233,1094,,ASHISH SAUD,Male,Kanchanpur,,427,,11,12,,,,,,,,,,,,,,
+145,2131,,AMRIT PANDEY,Male,Bardiya,,429,,1,2,,,,,,,,,,,,,,
+414,394,,DEEP DHAMALA,Male,Morang,,431,,12,7,,,,,,,,,,,,,,
+1384,1023,,SUPREM KHATRI,Male,Bhaktapur,,432,,11,12,,,,,,,,,,,,,,
+738,4330,,NISHANT BHATTARAI,Male,Sindhuli,,433,,7,11,,,,,,,,,,,,,,
+535,1084,,JAGAN BARAL,Male,Sarlahi,,434,,11,1,12,2,,,,,,,,,,,,
+919,143,,RACHIT SUBEDI,Male,Dolakha,,435,,11,1,2,,,,,,,,,,,,,
+1070,1803,,SADIKSHYA ADHIKARI,Female,Parbat,,436,,11,12,,,,,,,,,,,,,,"Open, Female Quota"
+361,2809,,BINOD JOSHI,Male,Kanchanpur,,437,,11,12,1,2,,,,,,,,,,,,
+740,1403,,NISHANT JHA,Male,Dhanusha,,438,,1,,,,,,,,,,,,,,,
+565,1450,,KASHMIR SHRESTHA,Male,Nuwakot,,439,,11,12,,,,,,,,,,,,,,
+715,3555,,NIRAJ KUMAR JHA,Male,Rautahat,,441,,1,2,,,,,,,,,,,,,,
+150,4338,,ANIL BHUJEL,Male,Dolakha,,443,,2,,,,,,,,,,,,,,,
+821,3568,,PRAMESH ARYAL,Male,Chitawan,,445,,7,,,,,,,,,,,,,,,
+336,7364,,BIJIN THAPA,Male,Kathmandu,,446,,11,12,1,,,,,,,,,,,,,
+1329,299,,SUDEEP KHARAL,Male,Gulmi,,448,,1,2,,,,,,,,,,,,,,
+1462,1947,,UJJWAL DAHAL,Male,Sunsari,,449,,7,,,,,,,,,,,,,,,
+260,2594,,AVINAV PANTA,Male,Gorkha,,452,,11,12,,,,,,,,,,,,,,
+900,1685,,PUJAN GHIMIRE,Male,Palpa,,453,,12,11,7,,,,,,,,,,,,,
+444,6533,,DINESH JAISHI,Male,Kailali,,454,,1,,,,,,,,,,,,,,,Others
+763,6371,,PARAS TIWARI,Male,Achham,,456,,1,,,,,,,,,,,,,,,
+1076,1066,,SAGAR DHAKAL,Male,Syangja,,457,,1,,,,,,,,,,,,,,,
+545,2933,,JEEWAN BHATT,Male,Kanchanpur,,458,,11,12,1,2,,,,,,,,,,,,
+1056,6231,,SABIN RANABHAT,Male,Kaski,,459,,11,12,,,,,,,,,,,,,,
+936,3168,,RAJAN GIRI,Male,Dhading,,460,,1,2,19,,,,,,,,,,,,,
+720,564,,NIRANJAN SHARMA,Male,Siraha,,461,,1,2,,,,,,,,,,,,,,
+547,6555,,JENISH ADHIKARI,Male,Panchthar,,463,,11,12,1,2,,,,,,,,,,,,
+1128,2229,,SAMRAT MANANDHAR,Male,Dhankuta,,464,,1,7,9,,,,,,,,,,,,,
+501,1174,,HEMANT NEUPANE,Male,Nawalparasi West,,465,,9,,,,,,,,,,,,,,,
+780,309,,PRABESH BABU ADHIKARI,Male,Sankhuwasabha,,469,,11,12,,,,,,,,,,,,,,
+155,940,,ANISH KOIRALA,Male,Lamjung,,470,,12,7,8,,,,,,,,,,,,,
+699,4623,,NIBHRIT SAPKOTA,Male,Morang,,471,,7,8,11,,,,,,,,,,,,,
+1184,7688,,SASHIV DHIMAL,Male,Bhaktapur,,472,,1,2,,,,,,,,,,,,,,
+974,2341,,REYAN KUMAR SAPKOTA,Male,Bhaktapur,,473,,1,2,,,,,,,,,,,,,,
+735,847,,NISCHAL SHRESTHA,Male,Chitawan,,474,,9,10,,,,,,,,,,,,,,
+733,7045,,NISCHAL POUDEL,Male,Syangja,,476,,11,12,1,2,,,,,,,,,,,,
+52,1728,,AAYUSH KHADKA,Male,Udayapur,,477,,12,7,,,,,,,,,,,,,,
+681,6356,,NABEEN CHAUDHARY,Male,Kanchanpur,,478,,1,2,,,,,,,,,,,,,,
+132,5333,,AMAN SINGH,Male,Mahottari,,480,,11,12,,,,,,,,,,,,,,
+519,1635,,HRIDESH DEVKOTA,Male,Surkhet,,481,,12,,,,,,,,,,,,,,,
+1182,846,,SARWAGYA NIRAULA,Male,Bhaktapur,,483,,1,2,,,,,,,,,,,,,,
+775,911,,PESHAL KUMAR SHRESTHA,Male,Kathmandu,,484,,1,2,,,,,,,,,,,,,,
+1395,4100,,SURAJ KHANAL,Male,Kathmandu,,485,,11,12,1,2,,,,,,,,,,,,
+1005,3534,,ROHAN KUMAR SAH,Male,Rautahat,,486,,1,2,,,,,,,,,,,,,,
+1020,3840,,ROMAN BUDHATHOKI,Male,Ilam,,488,,1,7,2,,,,,,,,,,,,,
+813,3197,,PRAKALPA SATYAL,Male,Kavrepalanchok,,489,,12,,,,,,,,,,,,,,,
+615,3057,,KUSHAL SHAH,Male,Bara,,491,,11,12,,,,,,,,,,,,,,
+300,381,,BHUPENDRA SINGH RAIKHOLA,Male,Darchula,,492,,1,7,,,,,,,,,,,,,,
+962,2176,,RAM KUMAR KUSHWAHA,Male,Bara,,495,,12,7,,,,,,,,,,,,,,
+1100,574,,SAKSHYAM BHATTA,Male,Kanchanpur,,496,,1,2,11,7,12,8,,,,,,,,,,
+106,2703,,AEVA ACHARYA,Female,Parsa,,500,,11,7,12,8,,,,,,,,,,,,"Open, Female Quota"
+199,4898,,ANURAG DEO,Male,Saptari,,501,,1,2,9,10,12,,,,,,,,,,,
+1010,5833,,ROHIT DHOURALI,Male,Jhapa,,502,,11,7,,,,,,,,,,,,,,
+1454,493,,TISHA MANANDHAR,Female,Kathmandu,,504,,11,12,,,,,,,,,,,,,,"Open, Female Quota"
+314,904,,BIBEK JOSHI,Male,Kanchanpur,,505,,7,12,,,,,,,,,,,,,,
+349,7393,,BIMARSA WAGLE,Male,Tanahun,,506,,9,,,,,,,,,,,,,,,
+335,8710,,BIJEET BOHARA,Male,Kanchanpur,,508,,12,,,,,,,,,,,,,,,
+816,464,,PRAKASH RAJ JOSHI,Male,Bajhang,,509,,1,,,,,,,,,,,,,,,
+72,4644,,AAYUSHYA SHRESTHA,Male,Lalitpur,,512,,11,12,,,,,,,,,,,,,,
+875,5425,,PRATIKSHYA SAPKOTA,Female,Sindhupalchok,,513,,7,,,,,,,,,,,,,,,"Open, Female Quota"
+1315,2260,,SRISTI SHARMA,Female,Dang,,516,,11,12,,,,,,,,,,,,,,"Open, Female Quota"
+1331,4622,,SUDHIR SARRAF,Male,Rautahat,,517,,2,,,,,,,,,,,,,,,
+1220,1623,,SHESH RAJ BHATT,Male,Kanchanpur,,518,,1,11,2,,,,,,,,,,,,,
+1061,3011,,SACHIN GAUTAM,Male,Rupandehi,,519,,12,,,,,,,,,,,,,,,
+860,2037,,PRASTUT NEPAL,Male,Lalitpur,,520,,12,7,8,,,,,,,,,,,,,
+745,4725,,NISTHA DHUKHWA,Female,Bhaktapur,,521,,11,12,,,,,,,,,,,,,,"Open, Female Quota"
+359,6090,,BINIT NEUPANE,Male,Kathmandu,,522,,8,,,,,,,,,,,,,,,
+170,2095,,ANKIT WAGLE,Male,Tanahun,,523,,1,,,,,,,,,,,,,,,
+1366,7253,,SUMIT KARKI,Male,Sindhupalchok,,524,,12,,,,,,,,,,,,,,,
+1230,4128,,SHISHIR TIMILSINA,Male,Dhading,,525,,11,12,,,,,,,,,,,,,,
+244,494,,ASHWANI YADAV,Female,Dhanusha,,526,,1,2,11,12,,,,,,,,,,,,"Open, Female Quota"
+268,219,,AYUSH KARNA,Male,Dhanusha,,527,,1,,,,,,,,,,,,,,,
+456,6844,,DIPENDRA KUMAR YADAV,Male,Siraha,,529,,1,2,,,,,,,,,,,,,,
+1140,3713,,SANDESH ACHARYA,Male,Khotang,,531,,2,,,,,,,,,,,,,,,
+516,928,,HRIDAM POKHREL,Male,Morang,,532,,1,2,,,,,,,,,,,,,,
+517,928,,HRIDAM POKHREL,Male,Morang,,532,,1,,,,,,,,,,,,,,,
+1273,1076,,SILATA THAPA,Female,Sindhuli,,534,,1,2,,,,,,,,,,,,,,"Open, Female Quota"
+1002,787,,ROHAN CHAUHAN,Male,Sunsari,,535,,11,12,7,8,,,,,,,,,,,,
+1087,108,,SAGUN PAUDEL,Male,Kaski,,536,,12,,,,,,,,,,,,,,,
+497,3186,,GYANISH PRAJAPATI,Male,Bhaktapur,,537,,1,9,,,,,,,,,,,,,,
+4,1490,,AADITYA KARMACHARYA,Male,Dhanusha,,538,,1,2,3,9,10,,,,,,,,,,,
+1305,1828,,SOSTIKA SHRESTHA,Female,Morang,,539,,1,,,,,,,,,,,,,,,"Open, Female Quota"
+441,2077,,DINESH BIST,Male,Kanchanpur,,540,,2,1,,,,,,,,,,,,,,
+1062,6688,,SACHIN LAMSAL,Male,Rupandehi,,541,,1,2,,,,,,,,,,,,,,
+1358,2699,,SUMAN DHAKAL,Male,Kaski,,542,,11,1,7,,,,,,,,,,,,,
+248,357,,ASMITA BHATTARAI,Female,Parbat,,543,,1,2,,,,,,,,,,,,,,"Open, Female Quota"
+850,4828,,PRASHANT SAPKOTA,Male,Gorkha,,544,,1,2,,,,,,,,,,,,,,
+1095,3300,,SAJJOL ACHARYA,Male,Mahottari,,546,,1,11,2,,,,,,,,,,,,,
+427,3141,,DHARMANANDA JOSHI,Male,Kanchanpur,,547,,2,8,,,,,,,,,,,,,,
+1033,5702,,ROSHAN KUMAR GUPTA,Male,Bara,,548,,12,8,,,,,,,,,,,,,,
+566,1026,,KASMIK REGMI,Male,Banke,,549,,11,,,,,,,,,,,,,,,
+567,1026,,KASMIK REGMI,Male,Banke,,549,,11,12,,,,,,,,,,,,,,
+80,2365,,ABHISHEK ADHIKARI,Male,Sankhuwasabha,,550,,12,,,,,,,,,,,,,,,
+312,4923,,BIBEK CHAUDHARY,Male,Rautahat,,552,,1,2,,,,,,,,,,,,,,
+297,514,,BHUBAN BAHADUR SINGH,Male,Bajhang,,553,,1,,,,,,,,,,,,,,,
+693,6304,,NAVEEN SHARMA KHAREL,Male,Rupandehi,,554,,12,,,,,,,,,,,,,,,
+835,369,,PRASAN GAUTAM,Male,Kapilbastu,,555,,7,12,8,,,,,,,,,,,,,
+500,4129,,HEM RAJ KATHAYAT,Male,Kailali,,556,,1,,,,,,,,,,,,,,,Others
+697,5939,,NEWSON MAINALI,Male,Kathmandu,,557,,1,2,,,,,,,,,,,,,,
+972,6850,,REJINA BASNET,Female,Solukhumbu,,558,,1,2,,,,,,,,,,,,,,"Open, Female Quota"
+263,2453,,AVISHEK SHAH,Male,Morang,,559,,12,1,2,,,,,,,,,,,,,
+980,1159,,RISHAB DEV NEUPANE,Male,Kathmandu,,560,,1,2,,,,,,,,,,,,,,
+1171,5517,,SANTOSH KHANAL,Male,Arghakhanchi,,562,,1,2,,,,,,,,,,,,,,
+837,93,,PRASANTA TIWARI,Male,Gorkha,,563,,1,2,,,,,,,,,,,,,,
+1423,559,,SUVRATA GAUTAM,Female,Kathmandu,,565,,1,,,,,,,,,,,,,,,"Open, Female Quota"
+1191,3156,,SAUGAT GAIRE,Male,Baglung,,567,,1,2,,,,,,,,,,,,,,
+613,956,,KUSHAL ARYAL,Male,Makwanpur,,568,,1,2,,,,,,,,,,,,,,
+772,148,,PAWAN SUBEDI,Male,Parbat,,569,,1,2,,,,,,,,,,,,,,
+351,6800,,BINAY NIROULA,Male,Sunsari,,570,,11,12,,,,,,,,,,,,,,
+912,5113,,RABIN TAMOLI,Male,Dadeldhura,,571,,9,,,,,,,,,,,,,,,
+101,536,,ADARSHA PAUDEL,Male,Kaski,,572,,1,2,,,,,,,,,,,,,,
+144,1057,,AMRIT GAUDEL,Male,Parbat,,573,,12,1,2,,,,,,,,,,,,,
+53,3257,,AAYUSH KHANAL,Male,Arghakhanchi,,574,,1,2,,,,,,,,,,,,,,
+457,585,,DIPENDRA KUNWAR,Male,Achham,,575,,1,2,,,,,,,,,,,,,,
+531,967,,ISHWOR GIRI,Male,Dang,,577,,19,,,,,,,,,,,,,,,
+647,363,,MANISH LAL KARN,Male,Dhanusha,,579,,1,2,,,,,,,,,,,,,,
+1215,3794,,SHARAD PUN,Male,Salyan,,580,,1,2,,,,,,,,,,,,,,
+1390,8786,,SURAJ ACHARYA,Male,Kaski,,581,,11,,,,,,,,,,,,,,,
+1223,2509,,SHIKSHA KARKI,Female,Gulmi,,582,,1,2,11,,,,,,,,,,,,,"Open, Female Quota"
+115,9382,,AKSHAT JHA,Male,Dhanusha,,585,,1,2,,,,,,,,,,,,,,
+1154,2228,,SANGAM MANANDHAR,Male,Dhankuta,,586,,1,9,19,,,,,,,,,,,,,
+1183,88,,SASHANK NEUPANE,Male,Jhapa,,587,,12,11,8,,,,,,,,,,,,,
+1189,1933,,SAUGAT ADHIKARI,Male,Chitawan,,589,,11,12,,,,,,,,,,,,,,
+978,5786,,RIJUSA BHATTARAI,Female,Nawalparasi East,,591,,1,,,,,,,,,,,,,,,"Open, Female Quota"
+1377,2728,,SUNIL KUMAR SHARMA,Male,Siraha,,593,,1,2,,,,,,,,,,,,,,
+596,194,,KRITEEKA THAPA,Female,Kathmandu,,594,,12,1,2,,,,,,,,,,,,,"Open, Female Quota"
+540,3003,,JANGA BAHADUR SHRESTHA,Male,Dolakha,,595,,1,2,,,,,,,,,,,,,,
+737,959,,NISHAN MAHAT,Male,Arghakhanchi,,596,,11,7,12,8,,,,,,,,,,,,
+856,5009,,PRASHUMNA ADHIKARI,Female,Kaski,,597,,1,2,,,,,,,,,,,,,,"Open, Female Quota"
+908,9406,,RABI JAYSWAL,Male,Rautahat,,599,,7,9,,,,,,,,,,,,,,
+18,1486,,AARAMBHA BOM MALLA,Male,Parbat,,601,,7,8,2,,,,,,,,,,,,,
+1031,696,,ROSHAN KUMAR GUPTA,Male,Rupandehi,,602,,1,,,,,,,,,,,,,,,
+1032,696,,ROSHAN KUMAR GUPTA,Male,Rupandehi,,602,,1,,,,,,,,,,,,,,,Madheshi
+1214,3974,,SHAMIKSHA PAUDEL,Female,Baglung,,603,,1,2,,,,,,,,,,,,,,"Open, Female Quota"
+395,5351,,BRINDA GAUTAM,Female,Arghakhanchi,,605,,1,2,7,,,,,,,,,,,,,"Open, Female Quota"
+696,2751,,NEEV BADU,Male,Kanchanpur,,606,,7,8,12,9,,,,,,,,,,,,
+1479,5810,,UTSAB SUBEDI,Male,Bardiya,,607,,1,2,,,,,,,,,,,,,,
+532,6499,,ISHWOR RAJ POKHREL,Male,Sindhuli,,608,,7,8,,,,,,,,,,,,,,
+728,3301,,NIRMAL KOIRALA,Male,Morang,,610,,1,,,,,,,,,,,,,,,
+576,1263,,KIRAN NEPAL,Male,Dhading,,611,,1,2,7,8,,,,,,,,,,,,
+369,6423,,BIPIN KHATIWADA,Male,Udayapur,,612,,12,8,,,,,,,,,,,,,,
+419,1952,,DEEWA DHAKAL,Female,Nawalparasi West,,613,,11,12,,,,,,,,,,,,,,"Open, Female Quota"
+55,1876,,AAYUSH MALLA,Male,Banke,,614,,12,1,2,,,,,,,,,,,,,
+734,5254,,NISCHAL SHAKYA,Male,Lalitpur,,615,,12,,,,,,,,,,,,,,,
+105,7223,,ADITYA POKHREL,Male,Jhapa,,616,,7,8,,,,,,,,,,,,,,
+1169,3454,,SANSKRITI SUBEDI,Female,Jhapa,,618,,1,2,,,,,,,,,,,,,,"Open, Female Quota"
+866,4675,,PRATIK KHATIWADA,Male,Okhaldhunga,,620,,12,7,8,,,,,,,,,,,,,
+891,2195,,PRINCE YADAV,Male,Rautahat,,621,,1,2,,,,,,,,,,,,,,
+499,1759,,HARSH PRATIK JHA,Male,Saptari,,623,,1,2,,,,,,,,,,,,,,
+1036,2555,,ROSHAN POKHREL,Male,Jhapa,,626,,11,12,1,2,,,,,,,,,,,,
+256,4217,,AVINASH DAHAL,Male,Kathmandu,,627,,11,12,7,8,,,,,,,,,,,,
+1151,74,,SANDIP RAI,Male,Khotang,,628,,12,,,,,,,,,,,,,,,
+347,2875,,BIMAL DHUNGANA,Male,Baglung,,630,,1,2,,,,,,,,,,,,,,
+1051,4590,,RUPESH KOIRALA,Male,Bara,,631,,11,12,2,,,,,,,,,,,,,
+485,2697,,GAURAV PANERU,Male,Jhapa,,633,,12,7,8,,,,,,,,,,,,,
+1228,2045,,SHISHIR PANDEYA,Male,Kailali,,635,,11,12,,,,,,,,,,,,,,
+648,5688,,MANISH SHRESTHA,Male,Bhaktapur,,636,,11,12,,,,,,,,,,,,,,
+445,2055,,DINESH SARKI,Male,Kalikot,,638,,1,2,,,,,,,,,,,,,,
+428,3192,,DHARMENDRA KUMAR YADAV,Male,Siraha,,640,,1,2,,,,,,,,,,,,,,
+561,7476,,KAPIL BHATT,Male,Kanchanpur,,641,,11,12,1,2,,,,,,,,,,,,
+413,2760,,DEEP CHANDRA JOSHI,Male,Kanchanpur,,643,,12,7,8,3,,,,,,,,,,,,
+290,2117,,BASANTA RAJ KHATIWADA,Male,Chitawan,,644,,11,,,,,,,,,,,,,,,
+1393,3604,,SURAJ CHAND,Male,Darchula,,645,,12,2,11,1,,,,,,,,,,,,
+716,2183,,NIRAJ KUMAR SAH,Male,Morang,,646,,11,,,,,,,,,,,,,,,
+1122,1848,,SAMIR REGMI,Male,Sunsari,,647,,3,19,15,,,,,,,,,,,,,
+1290,1627,,SMRITI GAUTAM,Female,Ramechhap,,649,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+54,5649,,AAYUSH MAKA,Male,Bhaktapur,,650,,3,4,,,,,,,,,,,,,,
+378,1849,,BIRAJ RIJAL,Male,Dhading,,651,,7,8,12,,,,,,,,,,,,,
+82,2335,,ABHISHEK DUWADI,Male,Dhading,,652,,2,,,,,,,,,,,,,,,
+1022,1962,,RONISH KATUWAL,Male,Sunsari,,653,,9,,,,,,,,,,,,,,,
+937,211,,RAJAN JAISAWAL,Male,Rautahat,,654,,12,1,2,,,,,,,,,,,,,
+1034,2427,,ROSHAN KUMAR KANU,Male,Parsa,,655,,11,,,,,,,,,,,,,,,
+836,3278,,PRASANNA PAUDEL,Male,Syangja,,656,,11,7,12,8,1,2,,,,,,,,,,
+259,1564,,AVINAV KATTEL,Male,Nuwakot,,658,,2,,,,,,,,,,,,,,,
+1477,9241,,UTKRISTHA BHATTARAI,Male,Bhaktapur,,659,,12,11,,,,,,,,,,,,,,
+844,3394,,PRASHANNA GAUTAM,Male,Sarlahi,,660,,1,11,2,,,,,,,,,,,,,
+730,631,,NISCHAL DANGOL,Male,Kathmandu,,662,,12,8,,,,,,,,,,,,,,
+1135,5546,,SAMYOG RAI,Male,Sunsari,,663,,1,2,,,,,,,,,,,,,,
+459,6890,,DIPESH KUMAR JAYSAWAL,Male,Bara,,664,,1,12,,,,,,,,,,,,,,
+107,2040,,AJAY B.K,Male,Myagdi,,666,,9,,,,,,,,,,,,,,,
+434,5497,,DIKSHIT BHATTA,Male,Kailali,,667,,12,,,,,,,,,,,,,,,
+1268,1106,,SIDDHANT SHRESTHA,Male,Kathmandu,,668,,2,,,,,,,,,,,,,,,
+1368,1664,,SUMIT KUMAR NAYAK,Male,Dhanusha,,669,,1,11,,,,,,,,,,,,,,
+1115,3822,,SAMIP REGMI,Male,Achham,,670,,7,8,2,,,,,,,,,,,,,
+124,499,,ALISH CHAMLAGAIN,Male,Jhapa,,671,,9,,,,,,,,,,,,,,,
+348,6117,,BIMAL KHADKA,Male,Sunsari,,673,,15,16,,,,,,,,,,,,,,
+1459,1794,,UDEEP SHRESTHA,Male,Makwanpur,,674,,2,,,,,,,,,,,,,,,
+1081,2746,,SAGAR PANDEY,Male,Baitadi,,676,,2,,,,,,,,,,,,,,,
+1107,4734,,SAMEER YOGI,Male,Banke,,677,,1,2,12,,,,,,,,,,,,,
+1210,3272,,SHAIR BOGATI,Male,Kavrepalanchok,,678,,12,1,2,,,,,,,,,,,,,
+103,4871,,ADITYA GHIMIRE,Male,Jhapa,,679,,1,2,,,,,,,,,,,,,,
+626,106,,LEKH RAJ BHANDARI,Male,Kailali,,681,,2,,,,,,,,,,,,,,,
+86,4224,,ABHISHEK PYAKUREL,Male,Nuwakot,,682,,1,2,,,,,,,,,,,,,,
+858,4574,,PRASIDDHA PAUDEL,Male,Rupandehi,,683,,1,2,,,,,,,,,,,,,,
+448,2796,,DIPA CHAPAI,Female,Surkhet,,684,,1,2,,,,,,,,,,,,,,"Open, Female Quota"
+173,375,,ANKUSH KUNWAR,Male,Kanchanpur,,689,,9,,,,,,,,,,,,,,,
+917,4549,,RACHIT KHADKA,Male,Rupandehi,,690,,12,,,,,,,,,,,,,,,
+488,5936,,GAUTAM KUMAR YADAV,Male,Mahottari,,691,,1,2,,,,,,,,,,,,,,
+426,974,,DHAN KUMAR PAUDEL,Male,Taplejung,,693,,2,,,,,,,,,,,,,,,
+487,2320,,GAUTAM B.C.,Male,Banke,,696,,2,8,10,,,,,,,,,,,,,
+236,4040,,ASHMITA KUMARI,Female,Mahottari,,697,,1,2,,,,,,,,,,,,,,"Open, Female Quota"
+575,1756,,KIRAN ACHARYA,Male,Rupandehi,,699,,9,,,,,,,,,,,,,,,
+1170,673,,SANTOSH GHIMIRE,Male,Pyuthan,,700,,2,,,,,,,,,,,,,,,
+1114,3004,,SAMIKSHYA POUDEL,Female,Kaski,,701,,1,2,,,,,,,,,,,,,,"Open, Female Quota"
+1225,2891,,SHIRISH DEV SAPKOTA,Male,Chitawan,,703,,7,9,8,10,,,,,,,,,,,,
+93,6470,,ABIRAJ SHIWAKOTI,Male,Dolakha,,704,,2,1,,,,,,,,,,,,,,
+839,2546,,PRASHAMSA GM,Female,Dang,,705,,11,12,1,2,7,,,,,,,,,,,"Open, Female Quota"
+935,2048,,RAJAN BUDHATHOKI,Male,Dang,,706,,1,2,,,,,,,,,,,,,,
+493,1063,,GIRIRAJ ROKA,Male,Syangja,,708,,2,,,,,,,,,,,,,,,
+1427,1982,,SUYASHA WASTI,Female,Morang,,709,,9,19,10,20,,,,,,,,,,,,"Open, Female Quota"
+1153,1971,,SANGAM KOIRALA,Male,Gorkha,,710,,1,2,,,,,,,,,,,,,,
+416,386,,DEEPENDRA BISTA,Male,Dailekh,,714,,2,,,,,,,,,,,,,,,
+1119,6130,,SAMIR MAJHI,Male,Surkhet,,717,,2,,,,,,,,,,,,,,,
+1097,2025,,SAKSHAM KARKI,Male,Jhapa,,719,,12,2,8,,,,,,,,,,,,,
+255,988,,AUSTINA ARYAL,Female,Gulmi,,720,,1,2,,,,,,,,,,,,,,"Open, Female Quota"
+1222,3758,,SHIKHA SARRAF,Female,Parsa,,723,,11,12,7,1,8,2,,,,,,,,,,"Open, Female Quota"
+533,172,,ISHWOR REGMI,Male,Nawalparasi East,,724,,1,,,,,,,,,,,,,,,Others
+534,172,,ISHWOR REGMI,Male,Nawalparasi East,,724,,1,,,,,,,,,,,,,,,
+418,2355,,DEEPSAN BHANDARI,Male,Sarlahi,,725,,1,2,,,,,,,,,,,,,,
+1332,549,,SUDIN BARAKOTI,Male,Chitawan,,726,,12,7,8,,,,,,,,,,,,,
+1440,2581,,SWOCHHANDA GHIMIRE,Male,Lalitpur,,729,,8,2,,,,,,,,,,,,,,
+685,8432,,NABIN KHAIR,Male,Kailali,,731,,7,8,,,,,,,,,,,,,,
+680,2911,,NABARAJ ROKAYA,Male,Jumla,,732,,1,2,,,,,,,,,,,,,,
+818,3247,,PRAKRITI BHATTARAI,Female,Tanahun,,733,,1,2,,,,,,,,,,,,,,"Open, Female Quota"
+330,9378,,BIDHAN SHRESTHA,Male,Chitawan,,734,,12,8,,,,,,,,,,,,,,
+1434,5514,,SWASTIKA NEPAL,Female,Udayapur,,735,,11,1,12,2,,,,,,,,,,,,"Open, Female Quota"
+905,7306,,PUSKAR YADAV,Male,Saptari,,736,,1,2,,,,,,,,,,,,,,
+339,6883,,BIKALPA PANTHI,Male,Arghakhanchi,,737,,1,7,2,8,,,,,,,,,,,,
+398,1071,,CHANDAN KUMAR YADAV,Male,Sarlahi,,739,,1,,,,,,,,,,,,,,,Madheshi
+831,2545,,PRANJAL BARNWAL,Male,Parsa,,743,,12,7,8,2,,,,,,,,,,,,
+553,2970,,JYOTI KUMARI JHA,Female,Mahottari,,745,,1,2,7,,,,,,,,,,,,,"Open, Female Quota"
+321,1792,,BIBEK PANERU,Male,Kanchanpur,,746,,7,8,12,2,,,,,,,,,,,,
+1353,1276,,SUJATA GHIMIRE,Female,Jhapa,,747,,7,8,12,2,,,,,,,,,,,,"Open, Female Quota"
+196,2876,,ANUP SUBEDI,Male,Baglung,,748,,12,,,,,,,,,,,,,,,
+261,4817,,AVINESH KARKI,Male,Kathmandu,,750,,1,2,,,,,,,,,,,,,,
+1339,7448,,SUHANI DHIMAL,Female,Morang,,751,,3,,,,,,,,,,,,,,,"Open, Female Quota"
+758,814,,OMKAR SINGH,Male,Kanchanpur,,754,,1,2,,,,,,,,,,,,,,
+111,8299,,AKASH SINGH,Male,Kapilbastu,,755,,1,2,,,,,,,,,,,,,,
+1363,1143,,SUMAN PHUYAL,Male,Udayapur,,756,,8,,,,,,,,,,,,,,,
+1433,5821,,SWASTIK RAI,Male,Bhojpur,,757,,7,8,,,,,,,,,,,,,,
+960,7127,,RAM BAHADUR THAPA,Male,Morang,,761,,2,,,,,,,,,,,,,,,
+1142,6724,,SANDESH BHATTARAI,Male,Surkhet,,762,,2,,,,,,,,,,,,,,,
+396,3432,,BUDDHA THAPA,Male,Mahottari,,763,,2,12,,,,,,,,,,,,,,
+393,3574,,BIVASHA POKHREL,Female,Pyuthan,,764,,12,1,2,,,,,,,,,,,,,"Open, Female Quota"
+1212,479,,SHALIGRAM MISHRA,Male,Dhanusha,,765,,1,2,,,,,,,,,,,,,,
+1017,1104,,ROJIN DAS RAJBHANDARI,Male,Kathmandu,,766,,11,12,,,,,,,,,,,,,,
+672,1041,,MOHIT KUMAR SHARRAF,Male,Sarlahi,,767,,1,2,,,,,,,,,,,,,,
+1066,3853,,SACHIN SHRESTHA,Male,Kavrepalanchok,,768,,12,,,,,,,,,,,,,,,
+1246,2008,,SHREEYA MAHARJAN,Female,Kathmandu,,769,,12,,,,,,,,,,,,,,,"Open, Female Quota"
+1024,9117,,ROSHAN BASYAL,Male,Nawalparasi West,,770,,7,8,,,,,,,,,,,,,,
+447,5723,,DINESH TIMALSINA,Male,Nuwakot,,772,,1,2,,,,,,,,,,,,,,
+749,4296,,NITISH KUMAR SAHANI,Male,Nawalparasi West,,773,,2,,,,,,,,,,,,,,,
+75,3159,,ABHILASHA BHATTARAI,Female,Syangja,,774,,11,12,1,,,,,,,,,,,,,"Open, Female Quota"
+679,3615,,MUKUNDA PRASAD PARAJULI,Male,Syangja,,776,,1,7,2,,,,,,,,,,,,,
+1045,6681,,RUDRANSH AGRAHARI,Male,Rupandehi,,780,,11,12,,,,,,,,,,,,,,
+1232,3315,,SHIVA RAJ PANDEY,Male,Dailekh,,781,,1,2,,,,,,,,,,,,,,
+229,4583,,ASHIM SHRESTHA,Male,Chitawan,,782,,2,,,,,,,,,,,,,,,
+841,1446,,PRASHAMSHYA BANEPALI,Male,Bhaktapur,,783,,12,,,,,,,,,,,,,,,
+1236,773,,SHIVESH SHRESTHA,Male,Bhaktapur,,784,,3,4,,,,,,,,,,,,,,
+1052,1930,,RUPESH PAUDEL,Male,Chitawan,,785,,12,2,,,,,,,,,,,,,,
+74,7662,,ABHAYA SHRESTHA,Male,Kathmandu,,786,,11,12,,,,,,,,,,,,,,
+382,4731,,BISHAL PAUDEL,Male,Kapilbastu,,787,,12,8,2,,,,,,,,,,,,,
+1348,4503,,SUJAN KHAREL,Male,Rupandehi,,789,,11,12,,,,,,,,,,,,,,
+98,3882,,ABISHEK PAUDEL,Male,Sindhupalchok,,790,,2,,,,,,,,,,,,,,,
+431,2859,,DIGVIJAY BOHARA,Male,Salyan,,791,,1,9,2,10,,,,,,,,,,,,
+624,3296,,LAXMI BASNET,Female,Okhaldhunga,,792,,3,,,,,,,,,,,,,,,"Open, Female Quota"
+520,5988,,HRISHAV NEUPANE,Male,Lamjung,,795,,9,10,,,,,,,,,,,,,,
+1338,330,,SUGOL BARAL,Male,Kapilbastu,,799,,2,,,,,,,,,,,,,,,
+134,4886,,AMARDIP YADAV,Male,Rupandehi,,800,,1,11,2,,,,,,,,,,,,,
+812,2709,,PRAJWOL BOHARA,Male,Kailali,,802,,9,,,,,,,,,,,,,,,
+1494,1231,,YOJANA GHIMIRE,Female,Banke,,804,,12,,,,,,,,,,,,,,,"Open, Female Quota"
+609,5729,,KSHITIZ KHANAL,Male,Morang,,805,,12,,,,,,,,,,,,,,,
+1201,125,,SAURAV SUMAN JHA,Male,Mahottari,,806,,1,2,,,,,,,,,,,,,,
+1497,445,,YUGAL NYOUPANE,Male,Gulmi,,807,,2,8,,,,,,,,,,,,,,
+851,378,,PRASHANT SHRESTHA,Male,Jhapa,,809,,1,2,,,,,,,,,,,,,,
+63,342,,AAYUSH SINGH KUNWAR,Male,Darchula,,811,,1,2,,,,,,,,,,,,,,
+1006,3947,,ROHAN MAGRATI,Male,Lalitpur,,812,,1,11,,,,,,,,,,,,,,Dalit
+934,2803,,RAJABABU SAH LAHERA,Male,Bara,,813,,11,7,,,,,,,,,,,,,,
+646,754,,MANISH KUMAR YADAV,Male,Sunsari,,818,,1,2,9,,,,,,,,,,,,,
+368,2508,,BIPIN ARYAL,Male,Syangja,,819,,12,2,,,,,,,,,,,,,,
+47,277,,AAYUSH AANAND DAS,Male,Dhanusha,,822,,2,,,,,,,,,,,,,,,
+1235,622,,SHIVAM THAKUR,Male,Mahottari,,823,,2,,,,,,,,,,,,,,,
+778,3966,,POOJAN SINGH BHANDARI,Male,Mahottari,,824,,11,12,,,,,,,,,,,,,,
+1320,3206,,SUBEKSHYA BASNET,Female,Gorkha,,825,,12,8,1,,,,,,,,,,,,,"Open, Female Quota"
+388,7504,,BISHESH BIKRAM KUNWAR,Male,Lalitpur,,827,,2,,,,,,,,,,,,,,,
+790,1915,,PRABIN PAUDEL,Male,Arghakhanchi,,828,,9,8,,,,,,,,,,,,,,
+827,2826,,PRAMOD KUMHAL,Male,Nawalparasi West,,829,,12,,,,,,,,,,,,,,,
+429,5713,,DHAWA GHISING,Male,Kavrepalanchok,,831,,2,,,,,,,,,,,,,,,
+789,1375,,PRABIN PAUDEL,Male,Baglung,,832,,2,,,,,,,,,,,,,,,
+102,3540,,ADHIPMAN SINGH BASNET,Male,Morang,,833,,2,1,,,,,,,,,,,,,,
+691,1025,,NAMUNA K.C.,Female,Sindhupalchok,,834,,12,8,9,,,,,,,,,,,,,"Open, Female Quota"
+1126,6622,,SAMPADA SHRESTHA,Female,Lalitpur,,835,,11,12,7,8,1,,,,,,,,,,,"Open, Female Quota"
+1074,6532,,SADIKSHYA THAPA,Female,Sindhupalchok,,837,,1,2,8,,,,,,,,,,,,,"Open, Female Quota"
+627,943,,LIZA ADHIKARI,Female,Sarlahi,,839,,2,12,,,,,,,,,,,,,,"Open, Female Quota"
+191,6455,,ANUP BIDARI,Male,Dhading,,840,,1,,,,,,,,,,,,,,,Others
+192,6455,,ANUP BIDARI,Male,Dhading,,840,,2,8,,,,,,,,,,,,,,
+1278,4514,,SIMRAN SIGDEL,Female,Kavrepalanchok,,841,,11,12,1,2,,,,,,,,,,,,"Open, Female Quota"
+1376,4812,,SUNIL KUMAR BISTA,Male,Bardiya,,842,,2,,,,,,,,,,,,,,,
+889,5732,,PRERANA KUMARI ROY,Female,Siraha,,843,,2,,,,,,,,,,,,,,,"Open, Female Quota"
+559,885,,KANTI MAHOTRA,Female,Makwanpur,,845,,11,12,,,,,,,,,,,,,,"Open, Female Quota"
+238,2519,,ASHOK POKHREL,Male,Pyuthan,,848,,2,,,,,,,,,,,,,,,
+984,7761,,RITIK RAJ,Male,Rautahat,,849,,2,,,,,,,,,,,,,,,
+421,123,,DEVENDRA RAY YADAV,Male,Sarlahi,,850,,2,,,,,,,,,,,,,,,
+826,1761,,PRAMOD KUMAR RAJAK,Male,Mahottari,,852,,2,,,,,,,,,,,,,,,
+197,4425,,ANURAG ADHIKARI,Male,Lamjung,,853,,12,,,,,,,,,,,,,,,
+1429,2049,,SWABHIMAN PAUDEL,Male,Dang,,854,,9,,,,,,,,,,,,,,,
+490,2711,,GAYATRI PANT,Female,Kailali,,858,,12,,,,,,,,,,,,,,,"Open, Female Quota"
+1094,5417,,SAJAN KUMAR DAS,Male,Dhanusha,,859,,12,2,,,,,,,,,,,,,,
+793,2756,,PRADIP KHATIWADA,Male,Dhading,,860,,8,2,,,,,,,,,,,,,,
+1287,3535,,SMARIKA KARAKHETI,Female,Dhading,,861,,12,,,,,,,,,,,,,,,"Open, Female Quota"
+922,2820,,RAGINI MAHATO,Female,Dhanusha,,864,,2,3,,,,,,,,,,,,,,"Open, Female Quota"
+422,218,,DEVENDRA SAH,Male,Saptari,,865,,2,,,,,,,,,,,,,,,
+683,3401,,NABIN JHA,Male,Dhanusha,,866,,2,,,,,,,,,,,,,,,
+832,756,,PRANJAL GIRI,Male,Bhaktapur,,867,,12,,,,,,,,,,,,,,,
+722,4813,,NIRDESH NIROULA,Male,Jhapa,,869,,2,,,,,,,,,,,,,,,
+400,3007,,CHANDRA PRASAD BHATTA,Male,Bajhang,,871,,1,11,2,12,,,,,,,,,,,,
+767,1910,,PARVICE KHATRI,Male,Baglung,,872,,3,4,2,,,,,,,,,,,,,
+1198,1304,,SAURAV PRADHAN,Male,Kathmandu,,874,,9,20,,,,,,,,,,,,,,
+417,4132,,DEEPISHA DAWADI,Female,Nawalparasi East,,878,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+1492,5646,,YOGESH ACHARYA,Male,Sindhuli,,879,,1,2,12,9,,,,,,,,,,,,
+1060,7235,,SACHIN ACHARYA,Male,Gulmi,,880,,1,2,,,,,,,,,,,,,,
+833,1944,,PRAPTI NEUPANE,Female,Bardiya,,881,,9,10,,,,,,,,,,,,,,"Open, Female Quota"
+604,347,,KRITIKA PRAJAPATI,Female,Bhaktapur,,884,,3,2,12,,,,,,,,,,,,,"Open, Female Quota"
+331,15,,BIDIT KARKI,Male,Jhapa,,886,,2,1,,,,,,,,,,,,,,
+845,4585,,PRASHANT ADHIKARI,Male,Chitawan,,887,,12,7,8,,,,,,,,,,,,,
+951,5374,,RAJIB SUBEDI,Male,Parbat,,889,,11,1,12,2,,,,,,,,,,,,
+85,2186,,ABHISHEK KHADKA,Male,Sunsari,,891,,9,10,,,,,,,,,,,,,,
+1078,1789,,SAGAR JHA,Male,Dhanusha,,893,,2,,,,,,,,,,,,,,,
+461,1479,,DIPESH SAH,Male,Saptari,,894,,2,,,,,,,,,,,,,,,
+665,859,,MILAN THAPA,Male,Sindhupalchok,,896,,1,2,,,,,,,,,,,,,,
+1250,4335,,SHREYA DHAKAL,Female,Tanahun,,899,,11,12,,,,,,,,,,,,,,"Open, Female Quota"
+56,7424,,AAYUSH NIRAULA,Male,Jhapa,,900,,12,8,,,,,,,,,,,,,,
+1272,5903,,SIDDHARTHA JHA,Male,Sarlahi,,902,,2,,,,,,,,,,,,,,,
+1007,653,,ROHAN POUDEL,Male,Jhapa,,903,,8,12,,,,,,,,,,,,,,
+1137,393,,SANDEEP GHIMIRE,Male,Gulmi,,904,,2,,,,,,,,,,,,,,,
+830,1089,,PRANISHA SHRESTHA,Female,Sunsari,,905,,12,,,,,,,,,,,,,,,"Open, Female Quota"
+829,3313,,PRANIL JAISI,Male,Dang,,907,,2,,,,,,,,,,,,,,,
+1047,3096,,RUP NARAYAN YADAV,Male,Saptari,,908,,1,,,,,,,,,,,,,,,
+1335,2351,,SUDITA YADAV,Female,Rautahat,,911,,1,2,8,,,,,,,,,,,,,"Open, Female Quota"
+1270,3833,,SIDDHARTH KUMAR LABH,Male,Mahottari,,914,,9,10,,,,,,,,,,,,,,
+1282,7124,,SIRJANA BHATTA,Female,Baitadi,,917,,12,2,,,,,,,,,,,,,,"Open, Female Quota"
+1343,2439,,SUJAL SHRESTHA,Male,Bhaktapur,,920,,12,,,,,,,,,,,,,,,
+254,3062,,ATUL TIWARI,Male,Chitawan,,921,,12,8,,,,,,,,,,,,,,
+1021,1581,,ROMAN KHADKA CHHETRI,Male,Syangja,,923,,8,,,,,,,,,,,,,,,
+1356,1192,,SULAV POUDEL,Male,Chitawan,,925,,12,,,,,,,,,,,,,,,
+1463,356,,UJJWAL PARAJULI,Male,Morang,,929,,2,12,,,,,,,,,,,,,,
+1327,539,,SUBODH PRASAD YADAV,Male,Bara,,933,,2,,,,,,,,,,,,,,,
+1279,4586,,SIMRON KHADKA,Female,Ilam,,934,,11,1,12,2,,,,,,,,,,,,"Open, Female Quota"
+48,306,,AAYUSH BARAL,Male,Sunsari,,935,,12,8,,,,,,,,,,,,,,
+1000,1320,,ROCHAK SINGH KATHAYAT,Male,Lalitpur,,936,,2,,,,,,,,,,,,,,,
+43,5557,,AASTHA SAPKOTA,Female,Morang,,938,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+1132,4741,,SAMRIDHI PATEL,Female,Parsa,,939,,2,,,,,,,,,,,,,,,"Open, Female Quota"
+435,1852,,DIKSHIT DHAKAL,Male,Chitawan,,940,,2,,,,,,,,,,,,,,,
+1333,3031,,SUDIP GHIMIRE,Male,Ilam,,941,,2,12,,,,,,,,,,,,,,
+1125,2011,,SAMPADA GHIMIRE,Female,Rupandehi,,942,,12,7,8,1,2,,,,,,,,,,,"Open, Female Quota"
+869,3155,,PRATIK POUDEL,Male,Dhading,,943,,2,,,,,,,,,,,,,,,
+1117,4980,,SAMIR CHAPAGAIN,Male,Ramechhap,,945,,1,2,,,,,,,,,,,,,,
+404,3851,,CHHATRA RAJ PHULARA,Male,Kailali,,948,,7,,,,,,,,,,,,,,,
+614,3529,,KUSHAL KARKI,Male,Kapilbastu,,949,,11,12,,,,,,,,,,,,,,
+454,2368,,DIPENDRA JOSHI,Male,Kailali,,952,,9,10,,,,,,,,,,,,,,
+1357,3517,,SULAV TIMALSINA,Male,Bhaktapur,,953,,12,10,,,,,,,,,,,,,,
+731,2364,,NISCHAL KHANAL,Male,Kathmandu,,954,,9,10,,,,,,,,,,,,,,
+376,3950,,BIRAJ BASNET,Male,Dang,,957,,2,9,10,,,,,,,,,,,,,
+1203,4694,,SAVYA YADAV,Male,Sarlahi,,959,,1,2,,,,,,,,,,,,,,
+167,5161,,ANKIT BHUSAL,Male,Rupandehi,,961,,2,,,,,,,,,,,,,,,
+809,8761,,PRAJWAL POKHREL,Male,Gulmi,,963,,12,,,,,,,,,,,,,,,
+739,1488,,NISHANT GAUTAM,Male,Kathmandu,,964,,2,,,,,,,,,,,,,,,
+180,6653,,ANSIL MAHARJAN,Male,Kathmandu,,965,,3,2,4,,,,,,,,,,,,,
+44,553,,AAVAS CHAUDHARY,Male,Sunsari,,966,,2,,,,,,,,,,,,,,,
+1175,5960,,SARJAK PARAJULI,Male,Makwanpur,,967,,2,,,,,,,,,,,,,,,
+785,1120,,PRABIDHI KARKI,Female,Okhaldhunga,,969,,1,2,12,3,,,,,,,,,,,,"Open, Female Quota"
+440,2164,,DINA THAPA,Female,Kathmandu,,970,,3,,,,,,,,,,,,,,,"Open, Female Quota"
+17,2035,,AARADHYA DEV TAMRAKAR,Male,Chitawan,,971,,8,,,,,,,,,,,,,,,
+759,1383,,OXYGEN PAUDEL,Male,Myagdi,,973,,2,,,,,,,,,,,,,,,
+226,4578,,ARYAN SHRESTHA,Male,Kathmandu,,974,,2,,,,,,,,,,,,,,,
+622,7444,,LALIT DANI,Male,Bajura,,978,,2,,,,,,,,,,,,,,,
+364,3920,,BINOD SHARMA,Male,Salyan,,979,,8,,,,,,,,,,,,,,,
+997,4349,,RIYA SHAKYA,Female,Kathmandu,,980,,11,12,7,8,,,,,,,,,,,,"Open, Female Quota"
+172,5125,,ANKOOR MAHENDRU,Male,Rupandehi,,982,,11,12,7,8,1,2,,,,,,,,,,
+761,3442,,PANKAJ CHAUDHARY,Male,Rupandehi,,983,,19,15,10,,,,,,,,,,,,,
+81,8003,,ABHISHEK ADHIKARI,Male,Morang,,984,,3,4,,,,,,,,,,,,,,
+642,1562,,MANISH ADHIKARI,Male,Sarlahi,,985,,2,,,,,,,,,,,,,,,
+130,6084,,AMAN KHANAL,Male,Morang,,986,,8,7,,,,,,,,,,,,,,
+1380,951,,SUNIL SAH,Male,Rautahat,,987,,1,,,,,,,,,,,,,,,Madheshi
+157,1697,,ANISH KUMAR YADAV,Male,Dhanusha,,988,,2,,,,,,,,,,,,,,,
+322,882,,BIBEK PANTA,Male,Lamjung,,989,,9,10,,,,,,,,,,,,,,
+1457,406,,TOP JANG GHARTI MAGAR,Male,Rukum West,,990,,2,3,,,,,,,,,,,,,,
+1240,3642,,SHREE HARI DHUNGANA,Male,Sindhupalchok,,992,,2,,,,,,,,,,,,,,,
+748,5813,,NITESH POKHAREL,Male,Sindhuli,,994,,2,,,,,,,,,,,,,,,
+176,2214,,ANSHU BHUSAL,Female,Nawalparasi East,,995,,7,,,,,,,,,,,,,,,"Open, Female Quota"
+543,51,,JAWAF GHIMIRE,Male,Gorkha,,998,,9,,,,,,,,,,,,,,,
+410,270,,DAKSHA LAMA,Male,Sindhuli,,999,,2,,,,,,,,,,,,,,,
+1136,5062,,SANAT RAI,Male,Ilam,,1001,,9,10,,,,,,,,,,,,,,
+425,1745,,DHAN BAHADUR KHATTRI,Male,Baglung,,1005,,12,,,,,,,,,,,,,,,
+705,3140,,NIKHIL MAHARJAN,Male,Lalitpur,,1007,,2,,,,,,,,,,,,,,,
+481,4134,,GARIMA NEPAL,Female,Kathmandu,,1008,,1,2,,,,,,,,,,,,,,"Open, Female Quota"
+270,1235,,AYUSH PANDEY,Male,Mahottari,,1009,,12,2,8,9,,,,,,,,,,,,
+271,1235,,AYUSH PANDEY,Male,Mahottari,,1009,,11,,,,,,,,,,,,,,,
+804,5548,,PRAJWAL ARYAL,Male,Gulmi,,1010,,8,,,,,,,,,,,,,,,
+1292,4647,,SNEHA CHAULAGAIN,Female,Sindhuli,,1011,,11,12,1,2,,,,,,,,,,,,"Open, Female Quota"
+469,5891,,DIWASH DAHAL,Male,Ilam,,1018,,9,10,,,,,,,,,,,,,,
+287,1131,,BARSHA REGMI,Female,Dang,,1020,,12,8,,,,,,,,,,,,,,"Open, Female Quota"
+210,2837,,ARADHYA DHUNGEL,Male,Sunsari,,1022,,8,,,,,,,,,,,,,,,
+945,2280,,RAJENDRA DULAL,Male,Sindhupalchok,,1024,,2,,,,,,,,,,,,,,,
+1412,5922,,SUSHIL YADAV,Male,Siraha,,1025,,12,,,,,,,,,,,,,,,
+1229,3754,,SHISHIR REGMI,Male,Palpa,,1029,,2,10,,,,,,,,,,,,,,
+752,491,,OJASHWI BHANDARI,Female,Syangja,,1033,,9,10,,,,,,,,,,,,,,"Open, Female Quota"
+1337,1835,,SUGAM GIRI,Male,Dang,,1034,,2,10,,,,,,,,,,,,,,
+634,984,,MADHU SUDAN K.C.,Male,Nawalparasi East,,1035,,1,2,,,,,,,,,,,,,,
+549,7299,,JENITH BICKRAM THAPA,Male,Kavrepalanchok,,1036,,2,,,,,,,,,,,,,,,
+252,61,,ATEEV MALLICK,Male,Dhanusha,,1037,,8,10,,,,,,,,,,,,,,
+253,61,,ATEEV MALLICK,Male,Dhanusha,,1037,,11,,,,,,,,,,,,,,,
+384,174,,BISHAL THAPA,Male,Parbat,,1040,,2,,,,,,,,,,,,,,,
+1409,2312,,SUSHIL POUDEL,Male,Tanahun,,1041,,2,,,,,,,,,,,,,,,
+212,55,,ARIF MANSOOR,Male,Bara,,1042,,2,,,,,,,,,,,,,,,
+887,2224,,PRENISHA UPRETI,Female,Bhaktapur,,1043,,12,7,8,,,,,,,,,,,,,"Open, Female Quota"
+1284,578,,SITA JAISHI,Female,Kailali,,1046,,9,,,,,,,,,,,,,,,"Open, Female Quota"
+221,5382,,ARUN GUPTA,Male,Parsa,,1048,,12,,,,,,,,,,,,,,,
+38,4357,,AASHUTOSH BAKHREL,Male,Sindhuli,,1049,,3,10,19,4,15,,,,,,,,,,,
+1453,3704,,TILAK THAPA,Male,Dang,,1051,,11,12,,,,,,,,,,,,,,
+910,313,,RABIN POUDEL,Male,Gulmi,,1052,,12,,,,,,,,,,,,,,,
+1271,3377,,SIDDHARTH KUMAR SINGH,Male,Siraha,,1055,,2,,,,,,,,,,,,,,,
+307,3424,,BIBEK ACHARYA,Male,Arghakhanchi,,1056,,1,2,,,,,,,,,,,,,,
+893,5504,,PRISHNA DHIMAL,Female,Kathmandu,,1057,,3,4,12,7,15,,,,,,,,,,,"Open, Female Quota"
+386,5709,,BISHANT ADHIKARI,Male,Bara,,1061,,2,,,,,,,,,,,,,,,
+1083,1493,,SAGAR POKHAREL,Male,Chitawan,,1063,,1,,,,,,,,,,,,,,,Others
+786,1196,,PRABIN ADHIKARI,Male,Lamjung,,1069,,9,10,,,,,,,,,,,,,,
+39,719,,AASHUTOSH KUMAR YADAV,Male,Siraha,,1073,,2,9,10,,,,,,,,,,,,,
+1336,1258,,SUGAM DEV PANT,Male,Palpa,,1074,,8,,,,,,,,,,,,,,,
+1013,4208,,ROHIT PAUDEL,Male,Chitawan,,1075,,11,12,,,,,,,,,,,,,,
+153,7164,,ANIMA KUMARI MAHATO,Female,Rautahat,,1079,,1,,,,,,,,,,,,,,,Madheshi
+524,5443,,INISHA MAHARJAN,Female,Kathmandu,,1080,,11,12,7,8,,,,,,,,,,,,"Open, Female Quota"
+175,30,,ANMOL BAJIMAYA,Male,Khotang,,1081,,2,,,,,,,,,,,,,,,
+1018,1631,,ROMA KUMARI SAHANI,Female,Bara,,1083,,11,,,,,,,,,,,,,,,"Open, Female Quota"
+1019,1631,,ROMA KUMARI SAHANI,Female,Bara,,1083,,11,,,,,,,,,,,,,,,"Female, Madheshi"
+872,4614,,PRATIK SHRESTHA,Male,Nawalparasi East,,1084,,12,,,,,,,,,,,,,,,
+998,8795,,RIZAN K.C.,Male,Rupandehi,,1089,,11,12,,,,,,,,,,,,,,
+92,5324,,ABINASH KUMAR RANJAN,Male,Rautahat,,1090,,2,,,,,,,,,,,,,,,
+25,1246,,AARYAN GAUTAM,Male,Kathmandu,,1094,,2,11,12,,,,,,,,,,,,,
+1326,869,,SUBODH NEUPANE,Male,Gorkha,,1095,,2,8,,,,,,,,,,,,,,
+36,3001,,AASHISH YADAV,Male,Rautahat,,1096,,2,,,,,,,,,,,,,,,
+865,3493,,PRATIK KARKI,Male,Saptari,,1099,,9,10,,,,,,,,,,,,,,
+390,1213,,BISHWAS ADHIKARI,Male,Kavrepalanchok,,1101,,10,,,,,,,,,,,,,,,
+379,4568,,BIRAJ SHRESTHA,Male,Pyuthan,,1102,,11,,,,,,,,,,,,,,,Adivashi/Janajati
+656,1652,,MAUSHAM KADARIYA,Male,Jhapa,,1104,,11,7,12,8,,,,,,,,,,,,
+78,1053,,ABHINAV JOSHI,Male,Lalitpur,,1107,,12,,,,,,,,,,,,,,,
+717,8021,,NIRAJ KUMAR SHARMA,Male,Saptari,,1111,,1,2,10,,,,,,,,,,,,,
+1362,3365,,SUMAN KUMAR MANDAL,Male,Dhanusha,,1112,,19,,,,,,,,,,,,,,,
+1118,7072,,SAMIR GAUTAM,Male,Gulmi,,1114,,12,2,,,,,,,,,,,,,,
+1204,1609,,SAYAM DAHAL,Male,Sunsari,,1117,,12,,,,,,,,,,,,,,,
+99,3968,,ABISHKAR KATTEL,Male,Tanahun,,1122,,9,10,15,19,16,20,,,,,,,,,,
+595,373,,KRITAN ADHIKARI,Male,Bhaktapur,,1123,,15,,,,,,,,,,,,,,,
+963,5134,,RAM PIRIT YADAV,Male,Kapilbastu,,1124,,1,2,,,,,,,,,,,,,,
+1321,1341,,SUBHAM JOSHI,Male,Kanchanpur,,1126,,2,,,,,,,,,,,,,,,
+1216,705,,SHASHANK JHA,Male,Kathmandu,,1128,,3,2,4,,,,,,,,,,,,,
+1192,2172,,SAUGAT POUDEL,Male,Syangja,,1129,,2,,,,,,,,,,,,,,,
+1386,3972,,SUPRIM KOIRALA,Male,Sunsari,,1131,,9,,,,,,,,,,,,,,,
+899,4181,,PUJA BHATTA,Female,Kailali,,1133,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+580,1468,,KISHOR GHIMIRE,Male,Chitawan,,1134,,3,,,,,,,,,,,,,,,
+247,1105,,ASMIT OJHA,Male,Kailali,,1136,,12,,,,,,,,,,,,,,,
+1150,4392,,SANDIP PATHAK,Male,Syangja,,1137,,2,,,,,,,,,,,,,,,
+1124,1344,,SAMPADA GAUTAM,Female,Parbat,,1140,,12,2,,,,,,,,,,,,,,"Open, Female Quota"
+779,3233,,PRABAL KOIRALA,Male,Gorkha,,1142,,12,8,,,,,,,,,,,,,,
+1244,5763,,SHREEJAN ARYAL,Male,Rupandehi,,1147,,15,19,,,,,,,,,,,,,,
+275,4901,,AYUSHA SHRESTHA,Female,Jhapa,,1148,,8,,,,,,,,,,,,,,,"Open, Female Quota"
+743,6135,,NISHEDHA DHITAL,Male,Kathmandu,,1149,,3,,,,,,,,,,,,,,,
+381,3518,,BISHAL GAUTAM,Male,Gulmi,,1153,,12,,,,,,,,,,,,,,,
+956,738,,RAKESH KUMAR MAHATO,Male,Siraha,,1154,,12,,,,,,,,,,,,,,,
+1396,2779,,SURAJ PURI,Male,Lalitpur,,1158,,1,2,11,,,,,,,,,,,,,
+316,2941,,BIBEK KUMAR SARRAF,Male,Bara,,1160,,2,,,,,,,,,,,,,,,
+883,3281,,PREM CHANDRA SAH,Male,Siraha,,1161,,8,,,,,,,,,,,,,,,
+127,2188,,AMAMUL HAQ,Male,Dhanusha,,1164,,8,12,,,,,,,,,,,,,,
+1361,4228,,SUMAN KHATRI,Male,Kanchanpur,,1166,,12,,,,,,,,,,,,,,,
+109,7292,,AJIT KUMAR ATAL,Male,Morang,,1167,,2,8,,,,,,,,,,,,,,
+1106,2363,,SAMEER SIGDEL,Male,Syangja,,1169,,2,15,,,,,,,,,,,,,,
+1302,6111,,SONI KUMARI RAUT,Female,Dhanusha,,1173,,3,,,,,,,,,,,,,,,"Open, Female Quota"
+698,3433,,NGAWANG LAMA,Male,Kavrepalanchok,,1174,,19,15,,,,,,,,,,,,,,
+933,1208,,RAJABABU JAYSWAL,Male,Bara,,1176,,1,2,,,,,,,,,,,,,,
+1400,5084,,SURESH YADAV,Male,Saptari,,1181,,1,2,,,,,,,,,,,,,,
+1264,6467,,SHRUTIKA TIWARI,Female,Morang,,1186,,12,,,,,,,,,,,,,,,"Open, Female Quota"
+30,2316,,AASHISH BASTOLA,Male,Kaski,,1187,,2,12,,,,,,,,,,,,,,
+882,2361,,PREETI RIJAL,Female,Jhapa,,1189,,7,8,,,,,,,,,,,,,,"Open, Female Quota"
+862,7190,,PRATIBHA SHARMA,Female,Gulmi,,1191,,12,,,,,,,,,,,,,,,"Open, Female Quota"
+1159,5077,,SANGSANG LIMBU,Male,Jhapa,,1192,,3,4,12,,,,,,,,,,,,,
+825,496,,PRAMIT KHATRI,Male,Rupandehi,,1195,,12,8,,,,,,,,,,,,,,
+23,854,,AARON POKHREL,Male,Dang,,1197,,12,,,,,,,,,,,,,,,
+491,3839,,GAYATRI SINGH,Female,Darchula,,1198,,12,,,,,,,,,,,,,,,"Open, Female Quota"
+446,3327,,DINESH SHAKYA,Male,Dhading,,1201,,1,,,,,,,,,,,,,,,Adivashi/Janajati
+541,339,,JASMINE ARYAL,Female,Gorkha,,1204,,2,9,,,,,,,,,,,,,,"Open, Female Quota"
+610,3519,,KSHITIZ UPADHAYAY,Male,Rupandehi,,1207,,11,12,,,,,,,,,,,,,,
+230,310,,ASHISH CHAND,Male,Kanchanpur,,1208,,9,10,,,,,,,,,,,,,,
+1466,4860,,UMESH KHADKA,Male,Dolakha,,1212,,11,12,7,8,,,,,,,,,,,,
+1478,2065,,UTSAB PANDEY,Male,Rupandehi,,1217,,12,,,,,,,,,,,,,,,
+1351,1766,,SUJANA POUDEL,Female,Bhojpur,,1222,,3,4,10,,,,,,,,,,,,,"Open, Female Quota"
+797,2331,,PRADIP TRITAL,Male,Sankhuwasabha,,1224,,2,,,,,,,,,,,,,,,
+1211,3185,,SHAKSHAM DAHAL,Male,Udayapur,,1225,,2,,,,,,,,,,,,,,,
+1205,729,,SEBIKA POKHREL,Female,Sindhuli,,1229,,2,,,,,,,,,,,,,,,"Open, Female Quota"
+158,2719,,ANISH NEUPANE,Male,Makwanpur,,1230,,10,15,,,,,,,,,,,,,,
+1375,2998,,SUNIL K.C,Male,Rukum West,,1231,,2,12,8,,,,,,,,,,,,,
+1297,4446,,SNEHA LUITEL,Female,Morang,,1232,,2,,,,,,,,,,,,,,,"Open, Female Quota"
+455,2263,,DIPENDRA KHADKA,Male,Rupandehi,,1234,,9,10,,,,,,,,,,,,,,
+188,1752,,ANUJA KATUWAL,Female,Jhapa,,1235,,11,12,,,,,,,,,,,,,,"Open, Female Quota"
+1092,109,,SAISHA SHRESTHA,Female,Lalitpur,,1238,,3,4,12,,,,,,,,,,,,,"Open, Female Quota"
+411,6647,,DARPAN BHATTARAI,Male,Palpa,,1240,,8,,,,,,,,,,,,,,,
+409,7496,,CHUNCHU SAPKOTA,Female,Chitawan,,1241,,3,4,1,,,,,,,,,,,,,"Open, Female Quota"
+140,3868,,AMIT TAJPURIYA,Male,Jhapa,,1242,,9,,,,,,,,,,,,,,,
+1414,3416,,SUSHMA KSHETRI,Female,Tanahun,,1246,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+1259,1229,,SHREYAS LAL,Male,Mahottari,,1247,,12,8,11,7,,,,,,,,,,,,
+193,6687,,ANUP GHIMIRE,Male,Lamjung,,1248,,8,,,,,,,,,,,,,,,
+1221,6379,,SHIBRAM SAH,Male,Siraha,,1249,,1,11,,,,,,,,,,,,,,Madheshi
+87,6312,,ABHISHEKH YADAV,Male,Bara,,1250,,12,8,,,,,,,,,,,,,,
+437,3219,,DIKSHYA KHATRI,Female,Lamjung,,1253,,7,8,15,,,,,,,,,,,,,"Open, Female Quota"
+718,3694,,NIRAJ YOGI,Male,Jumla,,1254,,11,12,1,2,,,,,,,,,,,,
+620,1370,,LAKHAN MAGAR,Male,Ramechhap,,1255,,19,20,9,10,,,,,,,,,,,,
+121,3032,,ALIN GADTAULA,Male,Jhapa,,1256,,9,10,,,,,,,,,,,,,,
+208,5809,,APAR SHRESTHA,Male,Rupandehi,,1258,,19,20,15,,,,,,,,,,,,,
+1379,8425,,SUNIL ROKA,Male,Gorkha,,1259,,15,,,,,,,,,,,,,,,
+241,41,,ASHUTOSH KUMAR SAH,Male,Dhanusha,,1260,,7,8,,,,,,,,,,,,,,
+911,3136,,RABIN POUDEL,Male,Parbat,,1261,,8,,,,,,,,,,,,,,,
+1015,3682,,ROHIT SHARMA,Male,Siraha,,1263,,2,,,,,,,,,,,,,,,
+773,5188,,PAYAL SINGH YADAV,Female,Saptari,,1266,,11,12,,,,,,,,,,,,,,"Open, Female Quota"
+955,2072,,RAJU SHAH,Male,Siraha,,1267,,2,,,,,,,,,,,,,,,
+776,2253,,PHURBA TAMANG,Male,Dolakha,,1268,,3,4,2,,,,,,,,,,,,,
+994,2213,,RIWAJ RANA BHAT,Male,Gorkha,,1271,,1,2,,,,,,,,,,,,,,
+387,2249,,BISHESH ARYAL,Male,Nawalparasi East,,1273,,15,2,9,7,,,,,,,,,,,,
+950,5026,,RAJESH THAPA,Male,Okhaldhunga,,1274,,12,,,,,,,,,,,,,,,
+1200,5231,,SAURAV SUBEDI,Male,Bardiya,,1275,,8,10,,,,,,,,,,,,,,
+432,6143,,DIKSHANTA DHUNGEL,Male,Kathmandu,,1276,,8,12,,,,,,,,,,,,,,
+1476,6039,,URVASHI KUMARI SINGH,Female,Mahottari,,1277,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+808,1531,,PRAJWAL PANDEY,Male,Rupandehi,,1278,,11,12,7,8,,,,,,,,,,,,
+814,8228,,PRAKASH B.K.,Male,Gulmi,,1282,,9,,,,,,,,,,,,,,,
+148,980,,ANIK CHAUDHARY,Male,Nawalparasi East,,1288,,2,,,,,,,,,,,,,,,
+1197,3566,,SAURAV PHAGO LIMBU,Male,Ilam,,1290,,3,19,15,,,,,,,,,,,,,
+1345,7141,,SUJAL TIMSINA,Male,Udayapur,,1291,,2,,,,,,,,,,,,,,,
+766,9099,,PARTH PANDIT,Male,Tanahun,,1295,,12,4,,,,,,,,,,,,,,
+1298,1393,,SNEHI PANJIYAR,Female,Parsa,,1297,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+1255,465,,SHREYA PANT,Female,Kailali,,1298,,1,11,3,,,,,,,,,,,,,"Open, Female Quota"
+1256,465,,SHREYA PANT,Female,Kailali,,1298,,1,,,,,,,,,,,,,,,Female
+1241,8741,,SHREED PANT,Male,Kanchanpur,,1299,,12,,,,,,,,,,,,,,,
+1001,97,,ROHAN ACHARYA,Male,Chitawan,,1300,,12,2,8,,,,,,,,,,,,,
+151,8,,ANIL KUMAR THAKUR,Male,Dhanusha,,1301,,9,10,19,20,,,,,,,,,,,,
+1065,4507,,SACHIN PAUDEL,Male,Rupandehi,,1302,,2,,,,,,,,,,,,,,,
+563,619,,KARAN SAH,Male,Sarlahi,,1304,,11,,,,,,,,,,,,,,,Madheshi
+712,5489,,NIPSHA SHRESTHA,Female,Makwanpur,,1305,,8,,,,,,,,,,,,,,,"Open, Female Quota"
+803,2203,,PRAJJWAL BC,Male,Banke,,1308,,10,,,,,,,,,,,,,,,
+466,2478,,DIWAKAR KUMAR MAHATO,Male,Mahottari,,1316,,12,,,,,,,,,,,,,,,
+356,5273,,BINI MAHARJAN,Female,Kathmandu,,1321,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+583,1525,,KRISH KARN,Male,Dhanusha,,1322,,11,12,,,,,,,,,,,,,,
+877,276,,PRATIMA NEUPANE,Female,Morang,,1328,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+916,2101,,RACHANA KAPHLE,Female,Sindhuli,,1329,,1,2,,,,,,,,,,,,,,"Open, Female Quota"
+391,3980,,BISHWAS BHATTARAI,Male,Syangja,,1335,,1,,,,,,,,,,,,,,,Others
+593,3275,,KRISHNA SEWA,Male,Okhaldhunga,,1336,,3,4,10,,,,,,,,,,,,,
+1116,2525,,SAMIR BAJAGAI,Male,Tanahun,,1339,,2,,,,,,,,,,,,,,,
+1397,2889,,SURAKSHYA PRADHAN,Female,Makwanpur,,1343,,15,16,,,,,,,,,,,,,,"Open, Female Quota"
+1354,1469,,SUKRITI JOSHI,Female,Kailali,,1344,,9,2,10,,,,,,,,,,,,,"Open, Female Quota"
+1133,581,,SAMRIDHI SAPKOTA,Female,Parbat,,1345,,8,15,,,,,,,,,,,,,,"Open, Female Quota"
+471,431,,DORENDRA ROKAYA,Male,Bajhang,,1349,,2,,,,,,,,,,,,,,,
+178,4081,,ANSHU POKHREL,Female,Sunsari,,1350,,12,,,,,,,,,,,,,,,"Open, Female Quota"
+880,2198,,PRAYOJAN SHIWAKOTI,Male,Dolakha,,1352,,2,,,,,,,,,,,,,,,
+1008,3828,,ROHAN SHRESTHA,Male,Gorkha,,1354,,12,8,,,,,,,,,,,,,,
+689,4216,,NABINA DHAMI,Female,Darchula,,1358,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+1325,9379,,SUBODH DHITAL,Male,Gorkha,,1359,,12,7,8,10,,,,,,,,,,,,
+112,3146,,AKRITI ADHIKARI,Female,Bhaktapur,,1360,,12,,,,,,,,,,,,,,,"Open, Female Quota"
+652,3507,,MANJIL SHRESTHA,Male,Kavrepalanchok,,1363,,12,,,,,,,,,,,,,,,
+1465,5212,,UMESH JOSHI,Male,Kanchanpur,,1364,,2,8,,,,,,,,,,,,,,
+6,5541,,AADITYA KUSHWAHA,Male,Sarlahi,,1367,,2,12,,,,,,,,,,,,,,
+165,5226,,ANJALI YADAV,Female,Saptari,,1368,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+77,2310,,ABHINAB ARYAL,Male,Dhading,,1369,,1,2,,,,,,,,,,,,,,
+430,1406,,DHIRENDRA KUMAI,Male,Jumla,,1375,,2,,,,,,,,,,,,,,,
+135,4873,,AMARTYASWOR DHAUBHADEL,Male,Bhaktapur,,1376,,3,4,,,,,,,,,,,,,,
+632,762,,MACHHINDRA DAHAL,Male,Makwanpur,,1379,,8,,,,,,,,,,,,,,,
+1242,809,,SHREEJAL PARAJULI,Male,Makwanpur,,1381,,8,10,,,,,,,,,,,,,,
+1421,59,,SUVAM PANDEYA,Male,Dang,,1383,,8,10,,,,,,,,,,,,,,
+989,4677,,RITU ARYAL,Female,Gulmi,,1384,,12,2,3,4,,,,,,,,,,,,"Open, Female Quota"
+695,7651,,NEERAJ KUMAR PRAJAPATI,Male,Bara,,1388,,1,,,,,,,,,,,,,,,Madheshi
+539,3488,,JANAKI BUDHA,Female,Surkhet,,1391,,9,10,11,,,,,,,,,,,,,"Open, Female Quota"
+1447,2210,,TARA PRASAD KHATRI,Male,Salyan,,1392,,9,10,,,,,,,,,,,,,,
+439,528,,DIKSHYA SHRESTHA,Female,Bhaktapur,,1393,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+755,4836,,OM PRAKASH CHAUDHARY,Male,Siraha,,1396,,12,2,,,,,,,,,,,,,,
+756,4836,,OM PRAKASH CHAUDHARY,Male,Siraha,,1396,,11,1,,,,,,,,,,,,,,Madheshi
+76,3405,,ABHILASHA KHADKA,Female,Morang,,1397,,9,10,,,,,,,,,,,,,,"Open, Female Quota"
+633,6248,,MADHU KARN,Female,Rautahat,,1401,,2,,,,,,,,,,,,,,,"Open, Female Quota"
+765,960,,PARIBESH NEUPANE,Male,Dolakha,,1402,,2,,,,,,,,,,,,,,,
+467,1411,,DIWAS BAM,Male,Kanchanpur,,1405,,10,15,16,,,,,,,,,,,,,
+939,1237,,RAJAN LAMICHHANE,Male,Kaski,,1406,,10,,,,,,,,,,,,,,,
+1199,3077,,SAURAV SHAKYA,Male,Baglung,,1408,,19,,,,,,,,,,,,,,,
+324,836,,BIBEK POUDEL,Male,Gulmi,,1411,,12,2,,,,,,,,,,,,,,
+1234,5114,,SHIVAM PUN,Male,Pyuthan,,1413,,2,,,,,,,,,,,,,,,
+1364,5232,,SUMIRA MAKAJU,Female,Bhaktapur,,1416,,12,,,,,,,,,,,,,,,"Open, Female Quota"
+273,3873,,AYUSH RAJ REGMI,Male,Chitawan,,1419,,12,,,,,,,,,,,,,,,
+537,3593,,JANAK RAWAT,Male,Bajura,,1421,,10,,,,,,,,,,,,,,,
+855,104,,PRASHNA TIMILSINA,Female,Makwanpur,,1422,,12,7,8,,,,,,,,,,,,,"Open, Female Quota"
+1448,2811,,TARA PRASAD NEUPANE,Male,Nawalparasi West,,1424,,10,,,,,,,,,,,,,,,
+1030,646,,ROSHAN KUMAR DAS,Male,Saptari,,1428,,2,10,,,,,,,,,,,,,,
+1458,3238,,TRILOCHAN CHAPAGAIN,Male,Chitawan,,1429,,10,,,,,,,,,,,,,,,
+1105,1797,,SAMEER KANDEL,Male,Parbat,,1431,,9,10,,,,,,,,,,,,,,
+805,5600,,PRAJWAL BARAL,Male,Morang,,1432,,9,10,,,,,,,,,,,,,,
+220,3348,,ARUN ARYAL,Male,Rupandehi,,1433,,12,,,,,,,,,,,,,,,
+319,720,,BIBEK MAHATO,Male,Siraha,,1434,,3,4,,,,,,,,,,,,,,
+631,5332,,MABISHA MAHARJAN,Female,Lalitpur,,1435,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+1341,2027,,SUJAL LAMA,Male,Dolakha,,1438,,9,10,15,,,,,,,,,,,,,
+303,1781,,BHUWAN ACHARYA UPADHYA,YMale,Kailali,,1439,,8,,,,,,,,,,,,,,,
+1209,1459,,SHAILENDRA SIGDEL,Male,Nuwakot,,1441,,8,12,,,,,,,,,,,,,,
+675,1805,,MOTI TUMBAHAMPHE,Male,Jhapa,,1444,,12,11,,,,,,,,,,,,,,
+1057,4200,,SABINA PANTHI,Female,Rupandehi,,1445,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+921,4582,,RAGHAV UPADHYAY,Male,Parbat,,1449,,12,,,,,,,,,,,,,,,
+810,3985,,PRAJWAL SAH,Male,Dhanusha,,1451,,11,12,,,,,,,,,,,,,,
+262,5829,,AVIRAL PRASAD JOSHI,Male,Lalitpur,,1452,,2,4,8,16,,,,,,,,,,,,
+122,4423,,ALINA NAYAJU,Female,Bhaktapur,,1456,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+660,5260,,MERIC SAPKOTA,Male,Lalitpur,,1457,,12,,,,,,,,,,,,,,,
+1365,162,,SUMIT JOSHI,Male,Baitadi,,1460,,12,,,,,,,,,,,,,,,
+377,1315,,BIRAJ NEUPANE,Male,Gorkha,,1463,,10,15,16,,,,,,,,,,,,,
+64,1983,,AAYUSH TIMILSENA,Male,Kailali,,1465,,9,10,,,,,,,,,,,,,,
+1161,5201,,SANJANA KUMARI,Female,Mahottari,,1478,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+938,8542,,RAJAN KUMAR MANDAL,Male,Dhanusha,,1482,,1,,,,,,,,,,,,,,,Madheshi
+505,5357,,HIMAL KUIKEL,Male,Sindhupalchok,,1489,,10,19,,,,,,,,,,,,,,
+546,68,,JENIK PRAJAPATI,Male,Bhaktapur,,1490,,3,4,,,,,,,,,,,,,,
+1360,6276,,SUMAN GIRI,Male,Tanahun,,1491,,2,4,,,,,,,,,,,,,,
+95,3716,,ABIRAL SHRESTHA,Male,Kaski,,1494,,3,4,,,,,,,,,,,,,,
+385,1847,,BISHAL YADAV,Male,Rautahat,,1497,,2,,,,,,,,,,,,,,,
+1046,8842,,RUJIM SHRESTHA,Male,Kanchanpur,,1500,,3,4,19,20,,,,,,,,,,,,
+1004,4631,,ROHAN DHAKAL,Male,Chitawan,,1501,,12,2,,,,,,,,,,,,,,
+669,4101,,MOHAN PRAKASH YADAV,Male,Jhapa,,1502,,10,,,,,,,,,,,,,,,
+149,7006,,ANIKET KUMAR GUPTA,Male,Bara,,1504,,10,,,,,,,,,,,,,,,
+1089,2707,,SAHAJ POKHAREL,Male,Morang,,1505,,12,,,,,,,,,,,,,,,
+1416,2730,,SUSHMITA TIMILSENA,Female,Tanahun,,1509,,1,2,,,,,,,,,,,,,,"Open, Female Quota"
+1405,7300,,SUSHANT MAJHI,Male,Morang,,1517,,10,,,,,,,,,,,,,,,
+973,337,,RENISHA SHRESTHA,Female,Kathmandu,,1518,,1,,,,,,,,,,,,,,,"Female, Adivashi/Janajati"
+774,4035,,PESHAL DAHAL,Male,Jhapa,,1520,,1,,,,,,,,,,,,,,,
+611,359,,KUBER BAHADUR THAPA,Male,Bajura,,1521,,2,,,,,,,,,,,,,,,
+184,595,,ANUBHAV KARKI,Male,Lalitpur,,1522,,2,,,,,,,,,,,,,,,
+152,526,,ANIL RAJBHANDARI,Male,Khotang,,1525,,15,19,7,,,,,,,,,,,,,
+659,3184,,MEGH PRASAD PHUYAL,Male,Bara,,1526,,3,4,,,,,,,,,,,,,,
+986,1460,,RITIKA AMATYA,Female,Lalitpur,,1529,,1,3,2,4,,,,,,,,,,,,"Open, Female Quota"
+1467,5660,,UMESH PRASAD YADAV,Male,Rautahat,,1530,,2,12,,,,,,,,,,,,,,
+1340,1511,,SUJAL BAJRA BAJRACHARYA,Male,Kathmandu,,1532,,3,4,,,,,,,,,,,,,,
+1441,2626,,SWOCHHANDITA GHIMIRE,Female,Lalitpur,,1534,,2,8,,,,,,,,,,,,,,"Open, Female Quota"
+993,1532,,RIVA KOIRALA,Female,Dhanusha,,1537,,11,12,,,,,,,,,,,,,,"Open, Female Quota"
+874,982,,PRATIKSHYA PARAJULI,Female,Palpa,,1542,,2,1,12,8,7,,,,,,,,,,,"Open, Female Quota"
+1012,7680,,ROHIT KUMAR JAISWAL,Male,Rautahat,,1543,,1,,,,,,,,,,,,,,,Madheshi
+1486,2247,,YAJAN MADHIKARMI,Male,Bhaktapur,,1545,,3,4,,,,,,,,,,,,,,
+1050,4356,,RUPESH JOSHI,Male,Kathmandu,,1546,,9,10,19,20,,,,,,,,,,,,
+11,611,,AAKRITI LAMSAL,Female,Syangja,,1548,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+83,2193,,ABHISHEK GHIMIRE,Male,Rupandehi,,1551,,9,10,,,,,,,,,,,,,,
+1398,548,,SURAVI LAMSAL,Female,Tanahun,,1552,,2,,,,,,,,,,,,,,,"Open, Female Quota"
+1399,2990,,SURESH OJHA,Male,Kailali,,1553,,10,19,,,,,,,,,,,,,,
+909,1222,,RABI SHRESTHA,Male,Khotang,,1554,,10,2,,,,,,,,,,,,,,
+551,3130,,JIGYASA GAUTAM,Female,Baglung,,1556,,1,2,,,,,,,,,,,,,,"Open, Female Quota"
+1480,4026,,UTSAV ADHIKARI,Male,Rautahat,,1557,,12,2,10,16,,,,,,,,,,,,
+942,2134,,RAJANISH KUMAR SINGH,Male,Sarlahi,,1558,,19,10,20,,,,,,,,,,,,,
+450,690,,DIPAK CHAUDHARY,Male,Saptari,,1561,,2,,,,,,,,,,,,,,,
+228,3923,,ASHIM GAUTAM,Male,Sunsari,,1563,,10,,,,,,,,,,,,,,,
+1193,2346,,SAUGAT SAHU,Male,Bardiya,,1564,,3,4,,,,,,,,,,,,,,
+1067,7484,,SACHINDRA NEPAL,Male,Sindhupalchok,,1566,,8,15,,,,,,,,,,,,,,
+1102,1590,,SAMANA KHANAL,Female,Morang,,1572,,2,11,,,,,,,,,,,,,,"Open, Female Quota"
+1451,8938,,TEJENDRA OLI,Male,Salyan,,1578,,11,12,,,,,,,,,,,,,,
+1419,6116,,SUSMITA KUNWAR,Female,Palpa,,1582,,1,2,,,,,,,,,,,,,,"Open, Female Quota"
+846,5640,,PRASHANT GAUTAM,Male,Kavrepalanchok,,1583,,2,,,,,,,,,,,,,,,
+525,8084,,INTAF MALIK,Male,Rupandehi,,1585,,10,,,,,,,,,,,,,,,
+594,2797,,KRISHNA YADAV,Male,Sarlahi,,1587,,2,,,,,,,,,,,,,,,
+453,693,,DIPAN SHRESTHA,Male,Nawalparasi East,,1589,,8,,,,,,,,,,,,,,,
+281,6295,,BAL KISAN MAHATO,Male,Nawalparasi East,,1594,,1,,,,,,,,,,,,,,,"Adivashi/Janajati, Tharu"
+282,6295,,BAL KISAN MAHATO,Male,Nawalparasi East,,1594,,19,,,,,,,,,,,,,,,
+678,707,,MUKESH KUMAR SAH,Male,Dhanusha,,1596,,12,,,,,,,,,,,,,,,
+591,6401,,KRISHNA PRASAD BHATTARAI,Male,Arghakhanchi,,1598,,2,12,,,,,,,,,,,,,,
+1403,3068,,SUSHAN GAHA,Female,Syangja,,1601,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+1009,630,,ROHIT BADAYAK,Male,Kanchanpur,,1602,,2,,,,,,,,,,,,,,,
+1040,5483,,ROSY PANDAY,Female,Kathmandu,,1606,,12,,,,,,,,,,,,,,,"Open, Female Quota"
+1252,1015,,SHREYA JOSHI,Female,Dadeldhura,,1609,,2,4,,,,,,,,,,,,,,"Open, Female Quota"
+781,1141,,PRABESH SAPKOTA,Male,Chitawan,,1612,,8,12,,,,,,,,,,,,,,
+523,5979,,ICHCHHA BHANDARI,Female,Nuwakot,,1613,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+79,1129,,ABHINAW GAUTAM,Male,Dang,,1617,,12,8,,,,,,,,,,,,,,
+289,4264,,BASANTA KUMAR KARKI,Male,Dailekh,,1621,,10,,,,,,,,,,,,,,,
+402,256,,CHANDRIKA MAHATO,Male,Rautahat,,1624,,1,,,,,,,,,,,,,,,Apanga
+760,894,,PABAN KHADKA,Male,Udayapur,,1625,,19,,,,,,,,,,,,,,,
+853,7120,,PRASHANT YADAV,Male,Sarlahi,,1627,,2,,,,,,,,,,,,,,,
+639,1608,,MANASH BARAL,Male,Jhapa,,1628,,10,,,,,,,,,,,,,,,
+975,3150,,RHYTHM SHRESTHA,Male,Kathmandu,,1632,,3,4,,,,,,,,,,,,,,
+871,2051,,PRATIK SHRESTHA,Male,Kathmandu,,1634,,12,,,,,,,,,,,,,,,
+673,5983,,MONIKA SUBEDI,Female,Jhapa,,1637,,8,9,19,,,,,,,,,,,,,"Open, Female Quota"
+1063,9079,,SACHIN LOHANI,Male,Gulmi,,1639,,9,10,19,,,,,,,,,,,,,
+61,4152,,AAYUSH RIMAL,Male,Nuwakot,,1640,,12,2,,,,,,,,,,,,,,
+284,2268,,BALRAM SHAH,Male,Dhanusha,,1642,,12,2,,,,,,,,,,,,,,
+190,397,,ANUJAYA BHATTARAI,Male,Kathmandu,,1644,,12,,,,,,,,,,,,,,,
+1391,7884,,SURAJ ADHIKARI,Male,Dhanusha,,1648,,2,4,10,,,,,,,,,,,,,
+753,266,,OJASWI RANI MAHARJAN,Female,Lalitpur,,1651,,1,2,,,,,,,,,,,,,,"Open, Female Quota"
+1254,6431,,SHREYA MAHARJAN,Female,Kathmandu,,1656,,12,,,,,,,,,,,,,,,"Open, Female Quota"
+1417,4382,,SUSMA SHAH,Female,Bajura,,1657,,1,2,,,,,,,,,,,,,,"Open, Female Quota"
+1041,383,,ROUNAK BURLAKOTI,Male,Kathmandu,,1658,,2,,,,,,,,,,,,,,,
+670,5872,,MOHIT BHATTA,Male,Kanchanpur,,1660,,10,19,20,,,,,,,,,,,,,
+1143,2087,,SANDESH PANDIT CHHETRI,Male,Kavrepalanchok,,1663,,12,11,,,,,,,,,,,,,,
+198,2790,,ANURAG DAHAL,Male,Jhapa,,1665,,12,,,,,,,,,,,,,,,
+1277,135,,SIMRAN NEUPANE,Female,Banke,,1667,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+1226,1841,,SHIRISH THAPA,Male,Kanchanpur,,1669,,19,10,20,,,,,,,,,,,,,
+1311,3783,,SRIJANA KUMARI YADAV,Female,Rautahat,,1673,,1,3,,,,,,,,,,,,,,"Female, Madheshi"
+438,1418,,DIKSHYA PARAJULI,Female,Kaski,,1675,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+1144,4359,,SANDESH POUDEL,Male,Bardiya,,1682,,12,,,,,,,,,,,,,,,
+1098,5143,,SAKSHAM KATUWAL,Male,Jhapa,,1683,,10,,,,,,,,,,,,,,,
+768,3295,,PAWAN BARAL,Male,Kaski,,1684,,15,9,,,,,,,,,,,,,,
+1500,6077,,YUNISHA MANANDHAR,Female,Bhaktapur,,1690,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+787,133,,PRABIN KUMAR MAHATO,Male,Siraha,,1691,,10,,,,,,,,,,,,,,,
+489,7569,,GAUTAM OJHA,Male,Dadeldhura,,1695,,4,8,,,,,,,,,,,,,,
+843,2973,,PRASHAN POKHREL,Male,Rupandehi,,1696,,8,,,,,,,,,,,,,,,
+113,1210,,AKRITI BAJAGAIN,Female,Lalitpur,,1705,,8,,,,,,,,,,,,,,,"Open, Female Quota"
+69,7479,,AAYUSHMA RANA,Female,Kathmandu,,1707,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+474,5020,,EBANI SHRESTHA,Female,Kathmandu,,1709,,2,,,,,,,,,,,,,,,"Open, Female Quota"
+222,2279,,ARUN LIMBU,Male,Morang,,1722,,1,,,,,,,,,,,,,,,Adivashi/Janajati
+1243,1301,,SHREEJAL THAPA,Female,Chitawan,,1726,,4,2,,,,,,,,,,,,,,"Open, Female Quota"
+1464,4921,,UJWAL DAHAL,Male,Jhapa,,1730,,12,9,10,,,,,,,,,,,,,
+389,4147,,BISHIR KC,Male,Baglung,,1732,,10,19,20,8,,,,,,,,,,,,
+264,207,,AYUR CHAND,Male,Kanchanpur,,1736,,19,20,,,,,,,,,,,,,,
+237,1973,,ASHOK BK,Male,Sindhupalchok,,1737,,10,2,,,,,,,,,,,,,,
+470,107,,DIYA VERMA,Female,Mahottari,,1738,,7,,,,,,,,,,,,,,,"Open, Female Quota"
+747,575,,NITESH KUMAR CHAUDHARY,Male,Saptari,,1739,,2,,,,,,,,,,,,,,,
+1307,3799,,SPANDAN KAPALI,Male,Chitawan,,1741,,2,,,,,,,,,,,,,,,
+366,1287,,BINU SUWAL,Female,Bhaktapur,,1744,,11,7,,,,,,,,,,,,,,"Female, Adivashi/Janajati"
+367,1287,,BINU SUWAL,Female,Bhaktapur,,1744,,11,7,,,,,,,,,,,,,,"Open, Female Quota"
+1138,5288,,SANDEEP PANDEY,Male,Kapilbastu,,1746,,15,,,,,,,,,,,,,,,
+214,5138,,ARJUN RAI,Male,Bhojpur,,1752,,2,10,15,3,16,19,,,,,,,,,,
+1011,2375,,ROHIT KHANAL,Male,Nawalparasi West,,1756,,12,,,,,,,,,,,,,,,
+1300,7043,,SOHAN SAPKOTA,Male,Rupandehi,,1758,,19,8,,,,,,,,,,,,,,
+12,3019,,AANAND KUMAR YADAV,Male,Siraha,,1761,,1,,,,,,,,,,,,,,,"Madheshi, Others"
+304,3413,,BHUWAN BAHADUR JETHARA,Male,Kailali,,1763,,4,,,,,,,,,,,,,,,
+342,7750,,BIKESH KUMAR YADAV,Male,Bara,,1766,,12,,,,,,,,,,,,,,,
+723,1329,,NIRDESHIKA TIWARI,Female,Kaski,,1774,,4,8,,,,,,,,,,,,,,"Open, Female Quota"
+792,3531,,PRADEEP ADHIKARI,Male,Dhading,,1778,,15,,,,,,,,,,,,,,,
+1233,2488,,SHIVAM PRASAD SAH,Male,Dhanusha,,1780,,12,,,,,,,,,,,,,,,
+992,5034,,RITUSHWAR NEUPANE,Male,Nuwakot,,1781,,8,12,,,,,,,,,,,,,,
+515,5792,,HOMNATH POUDEL,Male,Dang,,1783,,9,3,7,19,15,,,,,,,,,,,
+1227,7379,,SHISHIR DAHAL,Male,Morang,,1784,,20,,,,,,,,,,,,,,,
+677,4385,,MUKESH GIRI,Male,Udayapur,,1788,,19,20,,,,,,,,,,,,,,
+1373,1145,,SUNIL BIDARI,Male,Dhading,,1792,,1,,,,,,,,,,,,,,,Others
+272,364,,AYUSH PANTA,Male,Darchula,,1793,,8,,,,,,,,,,,,,,,
+957,4201,,RAKESH KUMAR YADAV,Male,Mahottari,,1794,,4,,,,,,,,,,,,,,,
+1058,4739,,SABINA PAUDEL,Female,Parbat,,1795,,11,12,,,,,,,,,,,,,,"Open, Female Quota"
+1275,8775,,SIMRAN GAUTAM,Female,Kathmandu,,1796,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+920,4412,,RAGHAV ACHARYA,Male,Banke,,1803,,2,,,,,,,,,,,,,,,
+1383,591,,SUPEKSHA RAJ BISHWOKARMA,Male,Saptari,,1807,,10,8,,,,,,,,,,,,,,
+405,9308,,CHIRANJIBI ROKAYA,Male,Pyuthan,,1813,,19,,,,,,,,,,,,,,,
+443,6016,,DINESH GHARTI MAGAR,Male,Salyan,,1815,,1,3,,,,,,,,,,,,,,Adivashi/Janajati
+60,6954,,AAYUSH RAUNIYAR,Male,Sunsari,,1818,,12,,,,,,,,,,,,,,,
+1035,4226,,ROSHAN LAL MUL,Male,Tanahun,,1820,,2,,,,,,,,,,,,,,,
+572,3022,,KESHAV RAJ REGMI,Male,Pyuthan,,1821,,11,12,7,8,1,2,,,,,,,,,,
+1186,6085,,SASIKANT THAKUR,Male,Sarlahi,,1822,,2,9,10,,,,,,,,,,,,,
+968,3582,,RANJANA SARU MAGAR,Female,Gulmi,,1827,,2,9,10,,,,,,,,,,,,,"Open, Female Quota"
+225,4743,,ARYAN KARKI,Male,Jhapa,,1828,,2,,,,,,,,,,,,,,,
+1213,708,,SHAMBHU KUMAR SAH,Male,Siraha,,1829,,3,4,,,,,,,,,,,,,,
+32,21,,AASHISH MISHRA,Male,Saptari,,1831,,1,,,,,,,,,,,,,,,Madheshi
+1406,33,,SUSHANT YADAV,Male,Sarlahi,,1839,,1,2,,,,,,,,,,,,,,
+1049,7355,,RUPESH BUDHA,Male,Dolpa,,1842,,1,2,,,,,,,,,,,,,,
+340,2696,,BIKASH ADHIKARI,Male,Arghakhanchi,,1843,,15,10,16,,,,,,,,,,,,,
+240,5508,,ASHUTOSH CHANDRA SHAH,Male,Mahottari,,1845,,11,12,7,8,,,,,,,,,,,,
+1112,1862,,SAMIKSHYA GAIRE,Female,Chitawan,,1847,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+1485,4842,,VISHMA SAPKOTA,Male,Kavrepalanchok,,1848,,2,12,,,,,,,,,,,,,,
+1156,1651,,SANGITA DHAMI,Female,Darchula,,1850,,4,2,12,,,,,,,,,,,,,"Open, Female Quota"
+557,4274,,KANCHAN SAPKOTA,Female,Sunsari,,1851,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+116,3236,,AKSHATA ADHIKARI,Female,Lamjung,,1854,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+726,6434,,NIRJALA PARAJULI,Female,Makwanpur,,1856,,9,15,2,10,16,,,,,,,,,,,"Open, Female Quota"
+1080,7406,,SAGAR LAMA,Male,Humla,,1858,,19,8,10,,,,,,,,,,,,,
+310,5789,,BIBEK BHANDARI,Male,Gulmi,,1859,,4,,,,,,,,,,,,,,,
+918,2831,,RACHIT KUMAR SAH,Male,Dhanusha,,1864,,2,1,,,,,,,,,,,,,,
+24,5223,,AARPAN THAPA,Male,Tanahun,,1868,,10,,,,,,,,,,,,,,,
+970,1274,,RAVI KARN,Male,Rautahat,,1870,,12,2,,,,,,,,,,,,,,
+1330,4528,,SUDHANSHU PANTA,Male,Bara,,1871,,10,,,,,,,,,,,,,,,
+84,2276,,ABHISHEK JOSHI,Male,Kanchanpur,,1872,,4,,,,,,,,,,,,,,,
+283,7905,,BALIRAM PANDIT,Male,Dhanusha,,1874,,3,4,,,,,,,,,,,,,,
+1418,8785,,SUSMITA HAYU,Female,Sindhuli,,1875,,15,16,19,10,20,,,,,,,,,,,"Open, Female Quota"
+901,1645,,PUJAN RIMAL,Male,Kathmandu,,1876,,15,10,16,20,,,,,,,,,,,,
+721,2136,,NIRDESH BHATTARAI,Male,Gorkha,,1877,,12,8,,,,,,,,,,,,,,
+607,6329,,KRITIKA UPADHAYAYA,Female,Bajhang,,1879,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+486,557,,GAURAV PANT,Male,Dadeldhura,,1880,,12,,,,,,,,,,,,,,,
+770,3738,,PAWAN KUMAR SHAHI,Male,Dailekh,,1889,,2,,,,,,,,,,,,,,,
+771,3738,,PAWAN KUMAR SHAHI,Male,Dailekh,,1889,,10,,,,,,,,,,,,,,,
+412,6866,,DARPAN HAMAL,Male,Gorkha,,1890,,10,15,16,19,,,,,,,,,,,,
+1291,244,,SMRITI JOSHI,Female,Kailali,,1895,,1,,,,,,,,,,,,,,,Female
+1188,3352,,SAUGAT ACHARYA,Male,Myagdi,,1900,,10,,,,,,,,,,,,,,,
+1449,1342,,TEJAS KHANAL,Male,Kathmandu,,1901,,1,2,,,,,,,,,,,,,,
+1157,5562,,SANGITA KHADKA,Female,Rolpa,,1902,,12,,,,,,,,,,,,,,,"Open, Female Quota"
+1158,5562,,SANGITA KHADKA,Female,Rolpa,,1902,,11,,,,,,,,,,,,,,,"Female, Apanga"
+1489,2062,,YASHITOSH KUMAR YADAV,Male,Dhanusha,,1905,,12,2,8,,,,,,,,,,,,,
+1431,4006,,SWARNIM SIGDEL,Male,Bhaktapur,,1906,,7,8,,,,,,,,,,,,,,
+1269,354,,SIDDHANTA NEPALI,Male,Gulmi,,1912,,9,10,15,16,20,,,,,,,,,,,
+788,3921,,PRABIN KUMAR SAH,Male,Dhanusha,,1916,,1,,,,,,,,,,,,,,,Madheshi
+1093,2053,,SAJAL DHAKAL,Male,Kathmandu,,1917,,12,,,,,,,,,,,,,,,
+2,3254,,AADESH BAHADUR SINGH,Male,Bajhang,,1919,,1,11,7,,,,,,,,,,,,,Durgam Chettra
+3,3254,,AADESH BAHADUR SINGH,Male,Bajhang,,1919,,2,,,,,,,,,,,,,,,
+687,8123,,NABIN KUMAR RAY,Male,Sarlahi,,1920,,1,,,,,,,,,,,,,,,Madheshi
+896,3764,,PRIYA JHA,Female,Rautahat,,1921,,8,,,,,,,,,,,,,,,"Open, Female Quota"
+552,7774,,JONI GADHARAJ,Female,Sindhupalchok,,1922,,2,8,3,4,15,16,,,,,,,,,,"Open, Female Quota"
+1181,810,,SARVESH ADHIKARI,Male,Palpa,,1926,,3,4,7,8,,,,,,,,,,,,
+1085,4747,,SAGUN BHANDARI,Female,Kaski,,1927,,10,,,,,,,,,,,,,,,"Open, Female Quota"
+1147,3908,,SANDHYA SHAHI,Female,Surkhet,,1931,,2,,,,,,,,,,,,,,,"Open, Female Quota"
+7,1727,,AADITYA RAJ,Male,Lalitpur,,1933,,12,,,,,,,,,,,,,,,
+1217,398,,SHASHANK KARNA,Male,Sarlahi,,1934,,10,,,,,,,,,,,,,,,
+329,5930,,BIBINA ADHIKARI,Female,Dhading,,1941,,9,10,,,,,,,,,,,,,,"Open, Female Quota"
+1113,2052,,SAMIKSHYA GHIMIRE,Female,Kathmandu,,1952,,9,10,15,16,,,,,,,,,,,,"Open, Female Quota"
+1196,3106,,SAURAV MARASINEE,Male,Syangja,,1954,,12,,,,,,,,,,,,,,,
+925,3264,,RAHUL DAS,Male,Bara,,1956,,2,4,,,,,,,,,,,,,,
+736,750,,NISHA KUMARI SHAH,Female,Jhapa,,1957,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+876,2004,,PRATIMA KUMARI CHAUDHARI,Female,Nawalparasi West,,1963,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+987,3557,,RITISH YADAV,Male,Dang,,1969,,2,,,,,,,,,,,,,,,
+1038,152,,ROSHIL SIWAKOTI,Male,Kathmandu,,1981,,15,16,,,,,,,,,,,,,,
+46,1872,,AAYASH PAUDEL,Male,Chitawan,,1990,,1,2,,,,,,,,,,,,,,
+682,208,,NABIN DEVKOTA,Male,Rasuwa,,1991,,10,8,,,,,,,,,,,,,,
+801,4280,,PRAJINA BANSKOTA,Female,Kathmandu,,1997,,8,,,,,,,,,,,,,,,"Open, Female Quota"
+688,177,,NABIN PRASHAD PANT,Male,Kanchanpur,,1998,,8,2,20,,,,,,,,,,,,,
+91,6920,,ABINASH BHANDARI,Male,Sunsari,,2002,,2,4,12,,,,,,,,,,,,,
+309,2487,,BIBEK BARAL,Male,Morang,,2003,,19,20,,,,,,,,,,,,,,
+1,7599,,AADARSH SINGH,Male,Siraha,,2006,,4,,,,,,,,,,,,,,,
+1355,5183,,SULAV PANTHI,Male,Kathmandu,,2011,,12,,,,,,,,,,,,,,,
+1146,1362,,SANDHYA GODAR,Female,Palpa,,2013,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+246,1268,,ASMIT BHATTARAI,Male,Sunsari,,2014,,12,10,,,,,,,,,,,,,,
+68,4989,,AAYUSHMA PURBEY,Female,Dhanusha,,2015,,3,4,7,8,19,,,,,,,,,,,"Open, Female Quota"
+1369,3024,,SUMIT KUMAR RAJAK,Male,Rautahat,,2016,,16,,,,,,,,,,,,,,,
+840,3027,,PRASHAMSA SIMKHADA,Female,Dhading,,2018,,8,4,,,,,,,,,,,,,,"Open, Female Quota"
+1498,6962,,YUJINA ARYAL,Female,Lalitpur,,2021,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+1352,1595,,SUJANI RANAMAGAR,Female,Makwanpur,,2026,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+999,4652,,R-MOON RAWAT,Male,Banke,,2028,,2,,,,,,,,,,,,,,,
+616,1169,,KUSHAL SHRESTHA,Male,Rupandehi,,2029,,10,20,,,,,,,,,,,,,,
+1293,4808,,SNEHA GAJUREL,Female,Sindhuli,,2030,,12,,,,,,,,,,,,,,,"Open, Female Quota"
+581,2770,,KISHOR TIMALSINA,Male,Kavrepalanchok,,2032,,10,20,,,,,,,,,,,,,,
+641,602,,MANDIP SHRESTHA,Male,Ramechhap,,2035,,2,,,,,,,,,,,,,,,
+1172,1217,,SAPANA BASNET,Female,Solukhumbu,,2042,,2,3,4,,,,,,,,,,,,,"Open, Female Quota"
+1310,5105,,SRIJAN POKHAREL,Male,Bardiya,,2045,,16,,,,,,,,,,,,,,,
+1328,260,,SUDARSHAN GURUNG,Male,Sunsari,,2053,,19,15,10,,,,,,,,,,,,,
+579,3811,,KIRAN YADAV,Female,Saptari,,2055,,12,,,,,,,,,,,,,,,"Open, Female Quota"
+1165,4103,,SANJAYA BASNET,Male,Dolakha,,2058,,10,19,20,16,,,,,,,,,,,,
+42,3526,,AASTHA POKHAREL,Female,Udayapur,,2059,,1,19,3,15,,,,,,,,,,,,"Open, Female Quota"
+1251,1588,,SHREYA GAUTAM,Female,Ramechhap,,2066,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+913,3079,,RABINDRA POUDYAL,Male,Jhapa,,2068,,1,,,,,,,,,,,,,,,
+16,2209,,AANCHAL MANDAL,Female,Banke,,2069,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+186,9287,,ANUJ BAKHREL,Male,Morang,,2070,,15,16,,,,,,,,,,,,,,
+708,1577,,NIKITA PAUDYAL,Female,Gulmi,,2079,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+506,2417,,HIMAL KUMAR KARKI,Male,Udayapur,,2081,,12,8,,,,,,,,,,,,,,
+870,4606,,PRATIK PURI,Male,Tanahun,,2082,,15,16,,,,,,,,,,,,,,
+892,3133,,PRINCIKA MAHARJAN,Female,Kathmandu,,2088,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+232,4187,,ASHISH PANDEY,Male,Arghakhanchi,,2090,,10,,,,,,,,,,,,,,,
+357,1420,,BINISHA ADHIKARI,Female,Kaski,,2093,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+1443,3220,,SWOYAM MAHARJAN,Male,Kathmandu,,2100,,8,12,,,,,,,,,,,,,,
+131,142,,AMAN KUMAR SAH,Male,Lalitpur,,2101,,8,,,,,,,,,,,,,,,
+878,5088,,PRATISTHA KHATRI,Female,Udayapur,,2103,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+1130,5328,,SAMRIDDHI ARYAL,Female,Kathmandu,,2106,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+996,335,,RIYA JHA,Female,Mahottari,,2108,,8,,,,,,,,,,,,,,,"Open, Female Quota"
+299,4830,,BHUMIKA TIMSINA,Female,Morang,,2109,,3,1,2,,,,,,,,,,,,,"Open, Female Quota"
+1303,2705,,SONU KUMAR YADAV,Male,Mahottari,,2111,,4,,,,,,,,,,,,,,,
+617,7928,,KUSHAL THAPALIYA,Male,Dhading,,2113,,1,11,,,,,,,,,,,,,,
+1177,6291,,SAROJAN SHRESTHA,Male,Kathmandu,,2114,,12,1,2,7,,,,,,,,,,,,
+328,2477,,BIBHU RAJ POKHAREL,Male,Pyuthan,,2116,,4,15,16,20,,,,,,,,,,,,
+374,8359,,BIPSAN NEPAL,Male,Kathmandu,,2117,,16,,,,,,,,,,,,,,,
+654,4468,,MANOJ SHRESTHA,Male,Nuwakot,,2121,,19,15,20,,,,,,,,,,,,,
+744,4301,,NISHI AWALE,Female,Lalitpur,,2122,,11,12,7,8,,,,,,,,,,,,"Open, Female Quota"
+1496,2754,,YUBRAJ SHRESTHA,Male,Dhading,,2124,,9,10,15,16,,,,,,,,,,,,
+1267,1557,,SIDDHANT ACHARYA,Male,Dang,,2126,,12,10,,,,,,,,,,,,,,
+512,1373,,HIMMAT CHHETRI,Male,Kapilbastu,,2130,,1,,,,,,,,,,,,,,,Others
+522,8109,,HRITIK THAPA,Male,Parbat,,2136,,11,12,,,,,,,,,,,,,,
+529,332,,ISHA RAUNIYAR,Female,Siraha,,2139,,1,2,,,,,,,,,,,,,,"Open, Female Quota"
+542,1078,,JASTIKA MAHARJAN,Female,Kathmandu,,2140,,2,,,,,,,,,,,,,,,"Open, Female Quota"
+251,8331,,ASTHA BOHARA JAISI,Female,Kanchanpur,,2141,,4,8,,,,,,,,,,,,,,"Open, Female Quota"
+509,7315,,HIMANSHU CHAUDHARY,Male,Dhanusha,,2144,,12,,,,,,,,,,,,,,,
+203,3696,,ANUSKA KHADKA,Female,Kathmandu,,2149,,2,4,1,3,,,,,,,,,,,,"Open, Female Quota"
+1385,1753,,SUPRIM KARKI,Male,Dolakha,,2150,,7,8,9,10,15,16,,11,12,,,,,,,
+868,3645,,PRATIK PAUDEL,Male,Kathmandu,,2151,,10,,,,,,,,,,,,,,,
+904,9394,,PURNIKA PAUDEL,Female,Kathmandu,,2153,,12,2,,,,,,,,,,,,,,"Open, Female Quota"
+1075,307,,SAFAL PHUYAL,Male,Sunsari,,2170,,20,,,,,,,,,,,,,,,
+713,1064,,NIPURNA SHRESTHA,Male,Arghakhanchi,,2172,,10,,,,,,,,,,,,,,,
+182,4839,,ANU KUMARI MANDAL,Female,Saptari,,2173,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+796,4155,,PRADIP SHARMA,Male,Baglung,,2175,,15,19,10,20,,,,,,,,,,,,
+820,749,,PRAKRITI SUBEDI,Female,Syangja,,2185,,12,,,,,,,,,,,,,,,"Open, Female Quota"
+555,6012,,KABIR RAWAL,Male,Doti,,2188,,10,,,,,,,,,,,,,,,
+1280,4003,,SINDHU NIRAULA,Female,Ilam,,2199,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+45,7976,,AAVASH KHAREL,Male,Kathmandu,,2202,,12,,,,,,,,,,,,,,,
+480,1575,,GARIMA MISHRA,Female,Makwanpur,,2209,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+185,2358,,ANUGYA KHATIWADA,Female,Sunsari,,2211,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+1096,7348,,SAKAR GIRI,Male,Kathmandu,,2222,,8,,,,,,,,,,,,,,,
+985,2824,,RITIK SAH,Male,Sarlahi,,2230,,8,10,,,,,,,,,,,,,,
+14,3419,,AANCHAL DEVKOTA,Female,Gorkha,,2240,,1,2,,,,,,,,,,,,,,"Open, Female Quota"
+1111,6404,,SAMIKSHYA G.C,Female,Banke,,2243,,12,,,,,,,,,,,,,,,"Open, Female Quota"
+1237,8517,,SHLOK PANDEY,Male,Kapilbastu,,2248,,11,12,,,,,,,,,,,,,,
+558,5391,,KANCHAN THAPA,Female,Dhading,,2252,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+370,249,,BIPIN RISAL,Male,Lalitpur,,2258,,2,4,,,,,,,,,,,,,,
+1101,4328,,SAMAN BILAS PANT,Male,Bhaktapur,,2261,,12,7,8,,,,,,,,,,,,,
+750,7578,,NIVA KUMARI SAH,Female,Dhanusha,,2265,,11,,,,,,,,,,,,,,,"Open, Female Quota"
+123,6947,,ALINA PAUDEL,Female,Parbat,,2266,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+31,2293,,AASHISH CHHETRI PURI,Male,Arghakhanchi,,2270,,10,,,,,,,,,,,,,,,
+536,3577,,JAGDISH JOSHI,Male,Kanchanpur,,2280,,10,19,20,,,,,,,,,,,,,
+564,6221,,KARUN FULLEL,Male,Arghakhanchi,,2284,,19,20,,,,,,,,,,,,,,
+383,7281,,BISHAL SHARMA,Male,Baglung,,2288,,8,,,,,,,,,,,,,,,
+350,6238,,BINAY KUMAR SAH,Male,Bara,,2294,,19,,,,,,,,,,,,,,,
+1026,3402,,ROSHAN BIST,Male,Bajhang,,2300,,4,,,,,,,,,,,,,,,
+1120,1107,,SAMIR PANDEY,Male,Dang,,2302,,1,,,,,,,,,,,,,,,Others
+380,4841,,BIRENDRA BOHARA,Male,Doti,,2304,,4,,,,,,,,,,,,,,,
+1322,452,,SUBHASH KUMAR KAPAR,Male,Dhanusha,,2308,,20,,,,,,,,,,,,,,,
+867,3912,,PRATIK KUMAR CHAUDHARY,Male,Dhanusha,,2309,,12,,,,,,,,,,,,,,,
+852,502,,PRASHANT SHRESTHA,Male,Kathmandu,,2311,,2,9,10,3,4,15,,16,,,,,,,,
+544,6399,,JEENA SHRESTHA,Female,Morang,,2313,,2,,,,,,,,,,,,,,,"Open, Female Quota"
+864,4002,,PRATIGYA SHRESTHA,Female,Kathmandu,,2314,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+249,3984,,ASMITA SHRESTHA,Female,Kavrepalanchok,,2316,,12,4,1,2,3,,,,,,,,,,,"Open, Female Quota"
+884,6964,,PREM RAI,Male,Makwanpur,,2318,,12,7,8,,,,,,,,,,,,,
+1288,2157,,SMRITEE REGMI,Female,Rupandehi,,2329,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+218,7912,,ARPITA MISHRA,Female,Parsa,,2336,,11,,,,,,,,,,,,,,,"Open, Female Quota"
+354,5594,,BINAYAK KHADKA,Male,Rautahat,,2337,,15,16,,,,,,,,,,,,,,
+640,2813,,MANASI KARKI,Female,Lalitpur,,2349,,11,,,,,,,,,,,,,,,"Open, Female Quota"
+28,2126,,AASHIKA PANDEY,Female,Mahottari,,2355,,1,3,11,,,,,,,,,,,,,"Female, Madheshi"
+29,2126,,AASHIKA PANDEY,Female,Mahottari,,2355,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+1088,950,,SAHAJ GHIMIRE,Male,Chitawan,,2356,,12,,,,,,,,,,,,,,,
+782,197,,PRABESH SHRESTHA,Male,Kathmandu,,2357,,19,20,,,,,,,,,,,,,,
+1121,7839,,SAMIR RAI,Male,Sankhuwasabha,,2358,,10,19,20,,,,,,,,,,,,,
+215,6099,,ARPAN GHIMIRE,Male,Rupandehi,,2364,,2,,,,,,,,,,,,,,,
+649,2661,,MANISHA MAHATO,Female,Siraha,,2371,,1,3,11,,,,,,,,,,,,,"Female, Madheshi"
+1053,7565,,RUSHA CHAUHAN,Female,Sunsari,,2376,,4,2,12,,,,,,,,,,,,,"Open, Female Quota"
+234,5585,,ASHMA JHA,Female,Mahottari,,2380,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+110,8179,,AJUNA RAI,Female,Okhaldhunga,,2383,,1,,,,,,,,,,,,,,,"Open, Female Quota"
+118,6975,,ALBERT BISTA,Male,Kalikot,,2391,,1,,,,,,,,,,,,,,,Durgam Chettra
+119,6975,,ALBERT BISTA,Male,Kalikot,,2391,,1,3,,,,,,,,,,,,,,
+1436,7187,,SWETA ADHIKARI,Female,Bardiya,,2392,,1,2,3,4,,,,,,,,,,,,"Open, Female Quota"
+1437,7187,,SWETA ADHIKARI,Female,Bardiya,,2392,,2,,,,,,,,,,,,,,,
+1367,8278,,SUMIT KUMAR MALAHA,Male,Morang,,2394,,1,,,,,,,,,,,,,,,"Madheshi, Others"
+294,5881,,BHAWANA ADHIKARI,Female,Bardiya,,2395,,2,8,4,10,,,,,,,,,,,,"Open, Female Quota"
+194,2403,,ANUP POKHREL,Male,Syangja,,2396,,2,,,,,,,,,,,,,,,
+239,845,,ASHRA SHAKYA,Female,Lalitpur,,2421,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+162,7687,,ANITA KATUWAL CHHETRI,Female,Dhading,,2431,,10,4,,,,,,,,,,,,,,"Open, Female Quota"
+483,5725,,GAURAB KANDEL,Male,Nawalparasi East,,2433,,19,20,10,,,,,,,,,,,,,
+710,6027,,NIMKANT SOMAI,Male,Nawalparasi West,,2435,,2,,,,,,,,,,,,,,,
+1499,2900,,YUKTA KARKI,Female,Bhaktapur,,2440,,12,,,,,,,,,,,,,,,"Open, Female Quota"
+895,2215,,PRITHU ADHIKARI,Female,Kathmandu,,2441,,12,,,,,,,,,,,,,,,"Open, Female Quota"
+1180,1704,,SARUN GURAGAIN,Female,Morang,,2443,,2,4,,,,,,,,,,,,,,"Open, Female Quota"
+690,5560,,NABINA THAPA,Female,Khotang,,2447,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+704,806,,NIKHIL BHUJEL,Male,Sunsari,,2449,,10,,,,,,,,,,,,,,,
+981,4560,,RISHAB SHRESTHA,Male,Sarlahi,,2463,,4,,,,,,,,,,,,,,,
+217,5035,,ARPITA CHAUDHARY,Female,Jhapa,,2471,,3,4,15,16,,,,,,,,,,,,"Open, Female Quota"
+344,2304,,BIKIL CHAUDHARY,Male,Saptari,,2475,,2,12,8,,,,,,,,,,,,,
+1027,2654,,ROSHAN CHAUDHARY,Male,Kailali,,2484,,10,,,,,,,,,,,,,,,
+1104,6397,,SAMBHAV PANDIT,Male,Tanahun,,2485,,4,10,16,,,,,,,,,,,,,
+746,2141,,NITESH KHANAL,Male,Dang,,2491,,19,20,,,,,,,,,,,,,,
+605,3611,,KRITIKA RANJITKAR,Female,Kailali,,2504,,2,,,,,,,,,,,,,,,"Open, Female Quota"
+436,7450,,DIKSHYA BHANDARI,Female,Kaski,,2510,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+915,716,,RACHANA BASNET,Female,Khotang,,2511,,2,,,,,,,,,,,,,,,"Open, Female Quota"
+1392,1571,,SURAJ BHANDARI,Male,Dadeldhura,,2512,,15,16,,,,,,,,,,,,,,
+967,6,,RANJAN KUMAR SINGH,Male,Rautahat,,2518,,1,,,,,,,,,,,,,,,Madheshi
+94,2313,,ABIRAL PAHADI,Male,Sindhuli,,2525,,20,,,,,,,,,,,,,,,
+169,5861,,ANKIT PAUDEL,Male,Baglung,,2526,,4,19,,,,,,,,,,,,,,
+353,5990,,BINAYA RANA MAGAR,Male,Lalitpur,,2529,,2,,,,,,,,,,,,,,,
+375,8152,,BIPUL RATNA SHAKYA,Male,Lalitpur,,2530,,11,,,,,,,,,,,,,,,Adivashi/Janajati
+1468,2572,,UNIKA SHRESTHA DANGOL,Female,Lalitpur,,2569,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+164,2104,,ANJALI SUMAN,Female,Dhanusha,,2575,,8,,,,,,,,,,,,,,,"Open, Female Quota"
+205,4896,,ANUSTHA YADAV,Female,Siraha,,2578,,7,8,,,,,,,,,,,,,,"Open, Female Quota"
+952,5745,,RAJISH KHATRI,Male,Ramechhap,,2579,,10,20,,,,,,,,,,,,,,
+817,2603,,PRAKRITI BASNYAT,Female,Kathmandu,,2580,,12,7,8,3,4,15,,16,,,,,,,,"Open, Female Quota"
+20,1073,,AAROGYA SINGH MAHAT,Male,Kavrepalanchok,,2586,,12,,,,,,,,,,,,,,,
+548,2111,,JENISHA SHANKHADEV,Female,Bhaktapur,,2597,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+709,2429,,NILAM KARKI,Male,Udayapur,,2602,,10,,,,,,,,,,,,,,,
+250,5657,,ASMITA THAPA MAGAR,Female,Dhading,,2609,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+358,1230,,BINISHA BANSKOTA,Female,Lalitpur,,2615,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+949,4991,,RAJESH MAHATO NUNIYA,Male,Sarlahi,,2616,,2,,,,,,,,,,,,,,,
+333,4990,,BIJAY PARIYAR,Male,Chitawan,,2617,,1,,,,,,,,,,,,,,,Dalit
+1286,1570,,SMARIKA BANTAWA RAI,Female,Bhojpur,,2618,,2,4,12,,,,,,,,,,,,,"Open, Female Quota"
+219,1180,,ARPITA RIMAL,Female,Achham,,2621,,2,,,,,,,,,,,,,,,"Open, Female Quota"
+1218,5237,,SHASHANK MAHATO,Male,Kathmandu,,2626,,10,,,,,,,,,,,,,,,
+1450,2379,,TEJENDRA ACHARYA,Male,Jumla,,2629,,15,16,19,,,,,,,,,,,,,
+1042,7519,,RUBISH SHAHI,Male,Parsa,,2631,,19,20,,,,,,,,,,,,,,
+1289,5024,,SMRITI CHHETRY,Female,Rautahat,,2634,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+265,3397,,AYUSCH NEUPANE,Male,Kaski,,2642,,4,,,,,,,,,,,,,,,
+1162,4028,,SANJAY KHADKA,Male,Palpa,,2652,,1,2,,,,,,,,,,,,,,
+1108,3087,,SAMIKSHA ACHARYA,Female,Nuwakot,,2653,,1,,,,,,,,,,,,,,,Female
+346,5894,,BILSON POUDEL,Male,Baglung,,2655,,2,12,,,,,,,,,,,,,,
+1090,3506,,SAHIL KAPALI,Male,Kathmandu,,2660,,12,,,,,,,,,,,,,,,
+408,5747,,CHRISTINA SHRESTHA,Female,Dolakha,,2670,,15,,,,,,,,,,,,,,,"Open, Female Quota"
+601,2419,,KRITI UPADHYAY,Female,Parbat,,2673,,8,,,,,,,,,,,,,,,"Open, Female Quota"
+1139,4593,,SANDEEP PANGENI,Male,Nawalparasi East,,2674,,16,,,,,,,,,,,,,,,
+668,156,,MOHAN GHARTI MAGAR,Male,Rolpa,,2679,,1,,,,,,,,,,,,,,,"Adivashi/Janajati, Others"
+468,6086,,DIWAS SAPKOTA,Male,Morang,,2680,,19,20,,,,,,,,,,,,,,
+528,2148,,ISHA GYAWALI,Female,Rupandehi,,2689,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+318,9376,,BIBEK KUMAR YADAV,Male,Siraha,,2693,,1,,,,,,,,,,,,,,,Madheshi
+1482,661,,UTSHAB PUDASAINI,Male,Kathmandu,,2695,,16,,,,,,,,,,,,,,,
+1401,2436,,SURYA PRASAD BASTOLA,Male,Solukhumbu,,2697,,10,20,,,,,,,,,,,,,,
+838,2893,,PRASHAMSA BHUSAL,Female,Arghakhanchi,,2701,,2,,,,,,,,,,,,,,,"Open, Female Quota"
+139,5435,,AMISHA SHRESTHA,Female,Tanahun,,2702,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+961,6553,,RAM BALAK YADAV,Male,Sarlahi,,2709,,10,8,,,,,,,,,,,,,,
+1487,182,,YANGCHEN LAMA,Female,Kathmandu,,2712,,12,,,,,,,,,,,,,,,"Open, Female Quota"
+15,6980,,AANCHAL KUMARI MANDAL,Female,Dhanusha,,2717,,4,2,12,,,,,,,,,,,,,"Open, Female Quota"
+854,5094,,PRASHANTA PAUDEL SHARMA,Male,Kathmandu,,2728,,2,,,,,,,,,,,,,,,
+1073,2484,,SADIKSHYA KINGRING,Female,Sindhuli,,2731,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+1202,5472,,SAURAV THAPA,Male,Kanchanpur,,2735,,9,10,19,20,,,,,,,,,,,,
+1127,4072,,SAMRAGI DHAKAL,Female,Bhaktapur,,2737,,12,8,,,,,,,,,,,,,,"Open, Female Quota"
+1324,4726,,SUBHIKSHYA KHADKA,Female,Bhaktapur,,2747,,1,,,,,,,,,,,,,,,"Open, Female Quota"
+195,941,,ANUP SINGH BASNET,Male,Okhaldhunga,,2761,,16,,,,,,,,,,,,,,,
+177,8282,,ANSHU KUMARI SINGH,Female,Dhanusha,,2764,,2,12,4,,,,,,,,,,,,,"Open, Female Quota"
+137,3658,,AMBIKA SAH,Female,Dhanusha,,2769,,1,2,3,4,,,,,,,,,,,,"Open, Female Quota"
+27,2567,,AASHANA BHATTA,Female,Kanchanpur,,2773,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+1160,1788,,SANISH CHAUDHARY,Male,Chitawan,,2782,,9,10,,,,,,,,,,,,,,
+278,6893,,AYUSHMA PUDASAINI,Female,Nuwakot,,2783,,7,,,,,,,,,,,,,,,Female
+590,362,,KRISHNA KUMAR SAH,Male,Mahottari,,2791,,9,10,19,20,,,,,,,,,,,,
+1266,7833,,SHUVAM RAJ SHAHI,Male,Kathmandu,,2795,,12,,,,,,,,,,,,,,,
+995,2993,,RIYA BHATTARAI,Female,Parsa,,2801,,8,12,19,20,,,,,,,,,,,,"Open, Female Quota"
+62,6577,,AAYUSH SHRESTHA,Male,Kathmandu,,2808,,19,20,,,,,,,,,,,,,,
+125,1961,,ALIZA KOIRALA,Female,Syangja,,2809,,3,7,,,,,,,,,,,,,,Female
+969,5327,,RASHMI KHADKA,Female,Morang,,2810,,7,8,,,,,,,,,,,,,,"Open, Female Quota"
+664,6928,,MILAN LAUDARI,Male,Tanahun,,2813,,16,,,,,,,,,,,,,,,
+1239,2246,,SHRADDHA SUBEDI,Female,Nawalparasi West,,2820,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+1274,2558,,SIMA PANDIT,Female,Parsa,,2823,,8,2,,,,,,,,,,,,,,"Open, Female Quota"
+1129,1033,,SAMRAT POKHAREL,Male,Parbat,,2834,,12,10,,,,,,,,,,,,,,
+725,2807,,NIRJALA BHURTEL,Female,Jhapa,,2836,,1,2,9,10,,,,,,,,,,,,"Open, Female Quota"
+315,3271,,BIBEK KHADGI,Male,Kathmandu,,2840,,20,,,,,,,,,,,,,,,
+201,6346,,ANUSHA SHRESTHA,Female,Lamjung,,2842,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+1141,3274,,SANDESH BHATTARAI,Male,Nawalparasi East,,2849,,16,10,20,,,,,,,,,,,,,
+1493,9167,,YOGESH PANDEY,Male,Baitadi,,2858,,12,7,8,,,,,,,,,,,,,
+51,5071,,AAYUSH KANDEL,Male,Nawalparasi East,,2859,,12,,,,,,,,,,,,,,,
+183,413,,ANUBHAV CHAND,Male,Lalitpur,,2866,,2,,,,,,,,,,,,,,,
+1381,2438,,SUNITA JIREL,Female,Dolakha,,2868,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+1257,8844,,SHREYA RAI,Female,Bhojpur,,2869,,8,,,,,,,,,,,,,,,"Open, Female Quota"
+902,3976,,PUJITA DHAKAL,Female,Lalitpur,,2871,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+407,1617,,CHIRANJIVI KARKI,Male,Nawalparasi West,,2874,,19,20,7,,,,,,,,,,,,,
+754,5047,,OJASWI TIMILSENA,Female,Bhaktapur,,2878,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+727,2248,,NIRMAL GAUTAM,Male,Rautahat,,2879,,2,,,,,,,,,,,,,,,
+1253,473,,SHREYA LABH,Female,Dhanusha,,2881,,3,4,11,12,,,,,,,,,,,,"Open, Female Quota"
+582,522,,KOMAL KUMARI PUDASAINI,Female,Makwanpur,,2882,,4,20,16,,,,,,,,,,,,,"Open, Female Quota"
+1323,2190,,SUBHAVA K.C.,Female,Bhaktapur,,2897,,1,2,,,,,,,,,,,,,,"Open, Female Quota"
+1285,912,,SLESHA ADHIKARI,Female,Kathmandu,,2915,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+163,797,,ANJAL SATYAL,Male,Makwanpur,,2919,,1,,,,,,,,,,,,,,,Apanga
+815,1601,,PRAKASH MAHARA,Male,Kailali,,2921,,20,,,,,,,,,,,,,,,
+847,7728,,PRASHANT KUMAR PANDEY,Male,Mahottari,,2924,,16,,,,,,,,,,,,,,,
+926,7747,,RAHUL KHAN,Male,Udayapur,,2926,,19,16,,,,,,,,,,,,,,
+1059,4008,,SACHIN ACHARYA,Male,Baglung,,2934,,4,16,,,,,,,,,,,,,,
+401,4249,,CHANDRABIR MAHATO,Male,Siraha,,2943,,2,,,,,,,,,,,,,,,
+777,113,,POOJA KAPARI,Female,Sarlahi,,2946,,11,7,1,,,,,,,,,,,,,"Female, Madheshi"
+449,3623,,DIPA KUMARI BOGATI,Female,Dadeldhura,,2951,,1,11,9,,,,,,,,,,,,,Female
+1387,4365,,SUPRIYA GAUTAM,Female,Bara,,2956,,1,,,,,,,,,,,,,,,Female
+1152,517,,SANGAM GAHATRAJ,Male,Syangja,,2961,,1,,,,,,,,,,,,,,,Dalit
+88,728,,ABHISHRENT KHATRI,Male,Bhaktapur,,2971,,19,20,,,,,,,,,,,,,,
+651,1211,,MANJIL ACHARYA,Male,Ilam,,2975,,2,,,,,,,,,,,,,,,
+1174,8941,,SARBESH NEUPANE,Male,Sunsari,,2978,,19,20,,,,,,,,,,,,,,
+1481,1817,,UTSAV KUMAR BISTA,Male,Kailali,,2979,,19,20,15,16,,,,,,,,,,,,
+159,322,,ANISH PANTHI,Male,Arghakhanchi,,2980,,16,,,,,,,,,,,,,,,
+1475,9408,,URSHA SHRESTHA,Female,Kathmandu,,3019,,12,8,,,,,,,,,,,,,,"Open, Female Quota"
+644,8598,,MANISH GIRI,Male,Bhaktapur,,3022,,2,,,,,,,,,,,,,,,
+19,5693,,AARAS MAHARJAN,Male,Kathmandu,,3035,,1,2,,,,,,,,,,,,,,
+619,2518,,KUSUM PYAKUREL,Female,Nuwakot,,3047,,2,12,,,,,,,,,,,,,,"Open, Female Quota"
+189,5791,,ANUJA NEUPANE,Female,Sankhuwasabha,,3052,,11,12,7,8,,,,,,,,,,,,"Open, Female Quota"
+1439,5414,,SWIKRITI NEUPANE,Female,Rupandehi,,3058,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+554,4329,,JYOTI LAMA,Female,Kavrepalanchok,,3061,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+504,2479,,HIMAL JOSHI,Male,Kanchanpur,,3072,,10,,,,,,,,,,,,,,,
+1316,5840,,SRISTY BASNET,Female,Bardiya,,3077,,3,1,,,,,,,,,,,,,,"Open, Female Quota"
+495,5615,,GOPI KRISHNA SHAH,Male,Siraha,,3081,,19,20,16,,,,,,,,,,,,,
+323,5286,,BIBEK PAUDEL,Male,Baglung,,3089,,10,19,20,4,,,,,,,,,,,,
+21,4945,,AAROHA KARKI,Male,Makwanpur,,3096,,4,,,,,,,,,,,,,,,
+828,6590,,PRANAYA SHRESTHA,Male,Okhaldhunga,,3098,,8,9,,,,,,,,,,,,,,
+657,1647,,MAYA TAMANG,Female,Sindhupalchok,,3101,,1,,,,,,,,,,,,,,,"Female, Adivashi/Janajati, Durgam Chettra, Others"
+658,1647,,MAYA TAMANG,Female,Sindhupalchok,,3101,,1,,,,,,,,,,,,,,,"Open, Female Quota"
+209,4954,,APEKSHYA DAWADI,Female,Chitawan,,3108,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+1258,3213,,SHREYA SHRESTHA,Female,Kathmandu,,3109,,4,16,,,,,,,,,,,,,,"Open, Female Quota"
+66,6198,,AAYUSHA SHRESTHA,Female,Gorkha,,3112,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+458,5998,,DIPESH ACCHAMI,Male,Gorkha,,3115,,2,,,,,,,,,,,,,,,
+584,8292,,KRISH NEUPANE,Male,Parsa,,3129,,10,,,,,,,,,,,,,,,
+464,2744,,DIPU THAKUR,Male,Bara,,3149,,2,,,,,,,,,,,,,,,
+1444,8402,,TAJ MALLA,Male,Kailali,,3154,,19,20,,,,,,,,,,,,,,
+397,7602,,CHANDAN KUMAR CHAUDHAR,Male,Saptari,,3160,,1,11,7,,,,,,,,,,,,,"Adivashi/Janajati, Tharu"
+207,8527,,ANWESHA MISHRA,Female,Jhapa,,3173,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+433,2272,,DIKSHIKA CHAPAGAIN,Female,Sankhuwasabha,,3183,,12,8,,,,,,,,,,,,,,"Open, Female Quota"
+338,7377,,BIKALPA KARKI,Male,Kathmandu,,3193,,10,,,,,,,,,,,,,,,
+231,5271,,ASHISH KARKI,Male,Sankhuwasabha,,3194,,2,,,,,,,,,,,,,,,
+707,7172,,NIKITA PATHAK,Female,Nawalparasi East,,3196,,9,10,19,,,,,,,,,,,,,"Open, Female Quota"
+1404,4783,,SUSHANT GAUTAM,Male,Nawalparasi West,,3204,,20,,,,,,,,,,,,,,,
+848,5438,,PRASHANT KUMAR THAKUR,Male,Mahottari,,3210,,2,20,,,,,,,,,,,,,,
+538,7897,,JANAK SUBEDI,Male,Parbat,,3213,,10,20,,,,,,,,,,,,,,
+898,390,,PRIYANSHI YADAV,Female,Dhanusha,,3217,,3,9,,,,,,,,,,,,,,"Female, Madheshi"
+1178,2583,,SARTHAK DAHAL,Male,Jhapa,,3226,,1,,,,,,,,,,,,,,,Others
+990,5502,,RITU BHANDARI,Female,Dadeldhura,,3260,,3,,,,,,,,,,,,,,,Female
+475,8469,,ELINA DANGAL,Female,Kathmandu,,3269,,12,2,,,,,,,,,,,,,,"Open, Female Quota"
+10,2434,,AAKRITI KHATRI,Female,Bhaktapur,,3271,,2,,,,,,,,,,,,,,,"Open, Female Quota"
+403,119,,CHARWI KARKI,Female,Udayapur,,3281,,2,,,,,,,,,,,,,,,"Open, Female Quota"
+89,2695,,ABHIYAN JUNG SHAH,Male,Udayapur,,3297,,11,,,,,,,,,,,,,,,
+903,3503,,PURANJAN KAFLE,Male,Kaski,,3306,,19,,,,,,,,,,,,,,,
+941,1149,,RAJAN SHARMA,Male,Dhanusha,,3311,,2,,,,,,,,,,,,,,,
+1410,5952,,SUSHIL SENCHURY,Male,Kavrepalanchok,,3319,,4,,,,,,,,,,,,,,,
+914,1072,,RABINDRA RAY,Male,Siraha,,3326,,1,2,,,,,,,,,,,,,,
+245,4699,,ASIM THAPA MAGAR,Male,Gorkha,,3330,,16,20,,,,,,,,,,,,,,
+327,2987,,BIBEK THAPA,Male,Jhapa,,3331,,12,,,,,,,,,,,,,,,
+37,1535,,AASHMA KHANAL,Female,Kathmandu,,3336,,2,12,4,,,,,,,,,,,,,"Open, Female Quota"
+498,3448,,HARI PRASAD BISHWOKARMA,Male,Kailali,,3339,,1,,,,,,,,,,,,,,,Dalit
+819,5553,,PRAKRITI BISHWAKARMA,Female,Baglung,,3344,,2,,,,,,,,,,,,,,,"Open, Female Quota"
+1231,7228,,SHISIR BANSKOTA,Male,Panchthar,,3348,,19,20,,,,,,,,,,,,,,
+1452,7743,,TILAK ROKAYA,Male,Kanchanpur,,3361,,12,,,,,,,,,,,,,,,
+1334,4791,,SUDIP KUMAR SAH,Male,Mahottari,,3363,,11,12,,,,,,,,,,,,,,
+569,4031,,KAUSHAL PANGENI,Male,Rupandehi,,3370,,10,20,,,,,,,,,,,,,,
+577,1786,,KIRAN PARAJULI,Male,Sindhupalchok,,3374,,15,19,16,20,,,,,,,,,,,,
+1446,9203,,TANU KUMARI SAH,Female,Mahottari,,3378,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+65,4880,,AAYUSHA MAKAJU,Female,Bhaktapur,,3388,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+521,1533,,HRISHIKESH PRAJAPATI,Male,Sarlahi,,3389,,20,,,,,,,,,,,,,,,
+931,3169,,RAJ KHATIWADA,Male,Jhapa,,3395,,15,16,,,,,,,,,,,,,,
+276,5430,,AYUSHMA DHAKAL,Female,Banke,,3400,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+1455,969,,TIYA SHRESTHA,Female,Dhankuta,,3413,,12,,,,,,,,,,,,,,,"Open, Female Quota"
+1456,969,,TIYA SHRESTHA,Female,Dhankuta,,3413,,11,,,,,,,,,,,,,,,"Female, Adivashi/Janajati"
+1294,5698,,SNEHA KARKI,Female,Dolakha,,3414,,16,,,,,,,,,,,,,,,"Open, Female Quota"
+320,3120,,BIBEK PAINI,Male,Parbat,,3435,,12,,,,,,,,,,,,,,,
+859,3485,,PRASIDDIKA BHATTA,Female,Siraha,,3448,,12,,,,,,,,,,,,,,,"Open, Female Quota"
+1312,9124,,SRINKHALA PARAJULI,Female,Kaski,,3456,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+526,3994,,ISHA BHATTARAI,Female,Ilam,,3461,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+1283,4244,,SISIR ADHIKARI,Male,Kathmandu,,3475,,9,10,19,20,15,16,,,,,,,,,,
+1402,4096,,SUSAN K.C.,Male,Gulmi,,3483,,1,2,,,,,,,,,,,,,,
+623,7397,,LASHATA SHRESTHA,Female,Nawalparasi East,,3489,,1,,,,,,,,,,,,,,,"Open, Female Quota"
+894,6060,,PRITAZ ADHIKARI,Male,Tanahun,,3491,,19,20,15,16,,,,,,,,,,,,
+394,4389,,BRIJ LAL YADAV,Male,Parsa,,3494,,8,10,20,16,,,,,,,,,,,,
+976,3692,,RICHAL NIDHI,Male,Morang,,3525,,2,8,,,,,,,,,,,,,,
+108,938,,AJAY SAH,Male,Bara,,3528,,2,3,4,,,,,,,,,,,,,
+1173,7597,,SARA NEUPANE,Female,Gorkha,,3530,,7,8,10,20,16,3,,,,,,,,,,"Open, Female Quota"
+267,3870,,AYUSH GURUNG,Male,Jhapa,,3532,,16,,,,,,,,,,,,,,,
+243,7989,,ASHUTOSH SIGDEL,Male,Sindhuli,,3540,,10,,,,,,,,,,,,,,,
+306,58,,BIBAS SHRESTHA,Male,Jhapa,,3552,,11,,,,,,,,,,,,,,,Adivashi/Janajati
+200,652,,ANURAG MAHATO,Male,Dhanusha,,3562,,4,,,,,,,,,,,,,,,
+40,6420,,AASTHA CHAUDHARY,Female,Mahottari,,3563,,15,16,,,,,,,,,,,,,,"Open, Female Quota"
+674,3613,,MONU KUMAR SAH,Male,Siraha,,3564,,8,10,20,16,,,,,,,,,,,,
+1370,1147,,SUNAINA KUMARI YADAV,Female,Saptari,,3565,,20,16,10,,,,,,,,,,,,,"Open, Female Quota"
+1168,8438,,SANKALPA LAMSAL,Male,Tanahun,,3569,,12,,,,,,,,,,,,,,,
+511,2165,,HIMANSHU RAY GAUTAM,Male,Dhanusha,,3572,,12,,,,,,,,,,,,,,,
+650,2637,,MANITA BASNET,Female,Morang,,3581,,1,,,,,,,,,,,,,,,"Female, Others"
+663,2579,,MIKCHHIRING BHOTE,Male,Sankhuwasabha,,3594,,1,,,,,,,,,,,,,,,
+556,3915,,KANCHAN MANDAL,Female,Saptari,,3604,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+337,5184,,BIJINA MAHARJAN,Female,Kathmandu,,3616,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+1054,1466,,SABIN KANDEL,Male,Chitawan,,3618,,12,8,,,,,,,,,,,,,,
+873,3036,,PRATIKSHYA KATHAYAT,Female,Kanchanpur,,3619,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+597,5583,,KRITI LAMA,Female,Lalitpur,,3621,,2,,,,,,,,,,,,,,,
+598,5583,,KRITI LAMA,Female,Lalitpur,,3621,,1,2,,,,,,,,,,,,,,"Open, Female Quota"
+599,5583,,KRITI LAMA,Female,Lalitpur,,3621,,1,,,,,,,,,,,,,,,"Female, Adivashi/Janajati"
+1438,4285,,SWIKRITI GAUTAM,Female,Gulmi,,3635,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+1145,1307,,SANDESH TIWARI,Male,Chitawan,,3641,,20,,,,,,,,,,,,,,,
+1474,2853,,URGEN TAMANG,Male,Dolakha,,3667,,2,,,,,,,,,,,,,,,
+600,8891,,KRITI SAIJU,Female,Kavrepalanchok,,3678,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+70,6391,,AAYUSHMA SAPKOTA,Female,Kavrepalanchok,,3681,,1,,,,,,,,,,,,,,,"Open, Female Quota"
+472,2576,,DRISTI SHRESTHA,Female,Bhaktapur,,3684,,12,,,,,,,,,,,,,,,"Open, Female Quota"
+35,7378,,AASHISH THAPA MAGAR,Male,Dhading,,3696,,12,2,,,,,,,,,,,,,,
+326,4461,,BIBEK SHRESTHA,Male,Lalitpur,,3715,,3,4,,,,,,,,,,,,,,
+1086,6843,,SAGUN KOIRALA,Female,Sindhuli,,3721,,16,,,,,,,,,,,,,,,"Open, Female Quota"
+1276,2676,,SIMRAN MAHARJAN,Female,Lalitpur,,3726,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+298,5461,,BHUMIKA ADHIKARI,Female,Dhanusha,,3741,,2,,,,,,,,,,,,,,,"Open, Female Quota"
+279,6418,,BABINA POKHREL,Female,Syangja,,3746,,3,,,,,,,,,,,,,,,Female
+507,3776,,HIMAL POKHREL,Male,Dang,,3752,,8,,,,,,,,,,,,,,,
+1304,6918,,SONU SHARMA,Male,Sunsari,,3760,,20,,,,,,,,,,,,,,,
+1349,2450,,SUJAN KUMAR SAH,Male,Siraha,,3780,,19,20,,,,,,,,,,,,,,
+1346,4289,,SUJALPA CHAPAGAIN,Female,Parbat,,3784,,12,2,,,,,,,,,,,,,,"Open, Female Quota"
+636,4928,,MALLIKA BISTA,Female,Lalitpur,,3801,,2,,,,,,,,,,,,,,,
+637,4928,,MALLIKA BISTA,Female,Lalitpur,,3801,,2,10,,,,,,,,,,,,,,"Open, Female Quota"
+706,2244,,NIKITA BHURTEL,Female,Chitawan,,3810,,10,20,,,,,,,,,,,,,,"Open, Female Quota"
+1265,4799,,SHUBHAM BABU NEPAL,Male,Bhojpur,,3819,,10,,,,,,,,,,,,,,,
+1039,7910,,ROSHNI KUMARI SHAH,Female,Dhanusha,,3820,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+492,4615,,GELI SHERPA,Male,Dolakha,,3821,,20,16,,,,,,,,,,,,,,
+1037,7210,,ROSHANI CHAUDHARY,Female,Saptari,,3826,,12,,,,,,,,,,,,,,,"Open, Female Quota"
+179,1976,,ANSHU SUBEDI,Female,Surkhet,,3829,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+527,127,,ISHA CHAUHAN,Female,Sankhuwasabha,,3841,,2,,,,,,,,,,,,,,,"Open, Female Quota"
+1016,7799,,ROJAN CHHANTYAL,Male,Kathmandu,,3845,,10,20,,,,,,,,,,,,,,
+982,325,,RISHAP RAJ CHAUDHARY,Male,Bara,,3847,,20,,,,,,,,,,,,,,,
+923,3885,,RAGNI KUMARI YADAV,Female,Rautahat,,3858,,2,8,10,,,,,,,,,,,,,"Open, Female Quota"
+1208,4110,,SEMIRA SUNAR,Female,Kaski,,3877,,3,,,,,,,,,,,,,,,"Female, Dalit"
+1490,1234,,YASHODA THAPA,Female,Sunsari,,3879,,12,,,,,,,,,,,,,,,"Open, Female Quota"
+757,7265,,OM PRAKASH KHANG,Male,Siraha,,3882,,1,,,,,,,,,,,,,,,Dalit
+202,620,,ANUSKA BOKATI,Female,Kanchanpur,,3897,,2,3,4,,,,,,,,,,,,,"Open, Female Quota"
+886,7083,,PREMINA RAI,Female,Jhapa,,3904,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+638,5744,,MAMATA POUDEL,Female,Rupandehi,,3919,,11,12,,,,,,,,,,,,,,"Open, Female Quota"
+1432,8427,,SWARUP KHATIWADA,Male,Jhapa,,3930,,20,,,,,,,,,,,,,,,
+277,4470,,AYUSHMA KC,Female,Lalitpur,,3942,,4,3,,,,,,,,,,,,,,"Open, Female Quota"
+257,1171,,AVINASH DUTTA,Male,Dhanusha,,3954,,8,,,,,,,,,,,,,,,
+798,5142,,PRAGATI ADHIKARI,Female,Jhapa,,3959,,20,,,,,,,,,,,,,,,"Open, Female Quota"
+50,8136,,AAYUSH GAJUREL,Male,Chitawan,,3964,,20,,,,,,,,,,,,,,,
+530,3014,,ISHA SHREE SAPKOTA,Female,Lalitpur,,3970,,7,,,,,,,,,,,,,,,Female
+676,8007,,MRITUNJAY SHAH,Male,Rautahat,,3994,,1,,,,,,,,,,,,,,,
+1131,9087,,SAMRIDHHI LAMSAL,Female,Baglung,,4004,,11,7,,,,,,,,,,,,,,"Female, Others"
+166,385,,ANJANA KHATRI,Female,Dang,,4067,,10,,,,,,,,,,,,,,,"Open, Female Quota"
+946,2724,,RAJESH KUMAR SAH,Male,Siraha,,4069,,10,20,,,,,,,,,,,,,,
+204,3601,,ANUSKA SHRESTHA,Female,Kathmandu,,4070,,4,12,,,,,,,,,,,,,,"Open, Female Quota"
+13,367,,AANCHAL BHATTA,Female,Kanchanpur,,4071,,10,,,,,,,,,,,,,,,"Open, Female Quota"
+372,2206,,BIPLOV LAMICHHANE,Male,Makwanpur,,4072,,3,20,,,,,,,,,,,,,,
+373,2206,,BIPLOV LAMICHHANE,Male,Makwanpur,,4072,,3,,,,,,,,,,,,,,,
+1408,914,,SUSHIL BARAL,Male,Sunsari,,4076,,20,,,,,,,,,,,,,,,
+9,7274,,AAKRITI KHATIWADA,Female,Ilam,,4113,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+1445,5152,,TANISHA KAYASTHA,Female,Dhanusha,,4139,,12,8,,,,,,,,,,,,,,"Open, Female Quota"
+1428,1035,,SUYOG JOSHI,Male,Dhankuta,,4148,,19,20,9,10,11,12,,,,,,,,,,
+285,7585,,BANDANA BASTOLA,Female,Solukhumbu,,4165,,1,2,3,4,7,,,,,,,,,,,"Open, Female Quota"
+606,5571,,KRITIKA RIJAL,Female,Dhading,,4210,,16,20,15,,,,,,,,,,,,,"Open, Female Quota"
+1194,5593,,SAUJANYA DHAKAL,Male,Syangja,,4213,,15,16,19,20,,,,,,,,,,,,
+948,7212,,RAJESH KUMAR YADAV,Male,Dhanusha,,4218,,16,20,,,,,,,,,,,,,,
+1248,1248,,SHREYA B.K.,Female,Saptari,,4223,,4,8,,,,,,,,,,,,,,
+578,1680,,KIRAN TIMALSINA,Male,Sindhupalchok,,4237,,4,,,,,,,,,,,,,,,
+842,6206,,PRASHAN CHENTA RAI,Male,Ilam,,4238,,1,,,,,,,,,,,,,,,Adivashi/Janajati
+807,5278,,PRAJWAL KARKI,Male,Jhapa,,4273,,2,,,,,,,,,,,,,,,
+26,5195,,AARYAN RAJ JOSHI,Male,Kathmandu,,4274,,12,,,,,,,,,,,,,,,
+1123,1716,,SAMIRA SHRESTHA,Female,Lalitpur,,4287,,8,,,,,,,,,,,,,,,"Open, Female Quota"
+1317,5108,,STUTI SHAH,Female,Dang,,4294,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+1442,8817,,SWORNIM SHRESTHA,Male,Lalitpur,,4302,,1,2,,,,,,,,,,,,,,
+1023,3411,,RONIT PRADHAN,Male,Kaski,,4315,,1,3,11,,,,,,,,,,,,,Adivashi/Janajati
+71,1959,,AAYUSHREE SHARMA,Female,Nawalparasi West,,4344,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+1249,1698,,SHREYA CHHETRI,Female,Kathmandu,,4352,,2,,,,,,,,,,,,,,,"Open, Female Quota"
+181,1039,,ANTARA SAH,Female,Sarlahi,,4372,,2,8,12,,,,,,,,,,,,,"Open, Female Quota"
+751,5493,,NUGEN LIMBU,Female,Ilam,,4373,,12,,,,,,,,,,,,,,,"Open, Female Quota"
+1301,1433,,SONEHA ROKKA,Female,Kathmandu,,4376,,1,,,,,,,,,,,,,,,"Female, Dalit"
+930,8213,,RAHUL YADAV,Male,Siraha,,4377,,1,11,2,12,,,,,,,,,,,,
+1350,3876,,SUJAN SHRESTHA,Male,Arghakhanchi,,4409,,2,12,10,16,,,,,,,,,,,,
+1072,3305,,SADIKSHYA KARKI,Female,Dolakha,,4411,,3,11,4,12,,,,,,,,,,,,"Open, Female Quota"
+927,1333,,RAHUL PRASAD SAH,Male,Sarlahi,,4433,,19,20,10,,,,,,,,,,,,,
+1262,6370,,SHRISHA TIMILSENA,Female,Kailali,,4440,,15,16,,,,,,,,,,,,,,"Open, Female Quota"
+1296,2455,,SNEHA KHATRI,Female,Rupandehi,,4462,,1,2,,,,,,,,,,,,,,"Open, Female Quota"
+452,2743,,DIPAK KUMAR SHAH,Male,Rautahat,,4478,,8,2,,,,,,,,,,,,,,
+694,5577,,NAVODIT KUMAR MANDAL,Male,Saptari,,4486,,20,,,,,,,,,,,,,,,
+286,1011,,BANSHIKA ACHARYA,Female,Kathmandu,,4502,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+1295,6557,,SNEHA KARN,Female,Morang,,4503,,2,12,,,,,,,,,,,,,,"Open, Female Quota"
+1148,604,,SANDIP KUMAR RAUT,Male,Mahottari,,4537,,11,,,,,,,,,,,,,,,Madheshi
+1420,665,,SUSMITA RAI,Female,Dhankuta,,4538,,11,12,,,,,,,,,,,,,,"Open, Female Quota"
+67,5526,,AAYUSHMA ADHIKARY,Female,Lamjung,,4542,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+897,5994,,PRIYANKA BHATT,Female,Baitadi,,4543,,7,20,12,16,10,2,,,,,,,,,,"Open, Female Quota"
+424,8536,,DEWASIKA ACHARYA,Female,Jhapa,,4561,,8,16,,,,,,,,,,,,,,"Open, Female Quota"
+1344,3317,,SUJAL SHRESTHA,Male,Sunsari,,4567,,10,19,20,,,,,,,,,,,,,
+1488,9114,,YASHASWEE SHRESTHA,Female,Kathmandu,,4573,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+1299,336,,SOHAN MAHATO,Male,Chitawan,,4585,,1,11,7,,,,,,,,,,,,,"Adivashi/Janajati, Tharu"
+585,5249,,KRISHITA RAI,Female,Dhankuta,,4603,,11,,,,,,,,,,,,,,,Adivashi/Janajati
+586,5249,,KRISHITA RAI,Female,Dhankuta,,4603,,12,,,,,,,,,,,,,,,"Open, Female Quota"
+587,5249,,KRISHITA RAI,Female,Dhankuta,,4603,,11,,,,,,,,,,,,,,,
+1071,3688,,SADIKSHYA CHAULAGAIN,Female,Kavrepalanchok,,4641,,1,2,,,,,,,,,,,,,,"Open, Female Quota"
+147,2288,,ANAPAM MARSANI,Female,Kaski,,4654,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+420,221,,DEV SHARAN MAHATO,Male,Mahottari,,4669,,2,,,,,,,,,,,,,,,
+907,5516,,PUSPA MAYA THAPA,Female,Jhapa,,4682,,12,4,,,,,,,,,,,,,,"Open, Female Quota"
+117,5369,,AKSHETA POUDEL,Female,Chitawan,,4689,,4,3,,,,,,,,,,,,,,"Open, Female Quota"
+971,6147,,REENAM PRADHAN,Female,Kathmandu,,4698,,2,,,,,,,,,,,,,,,"Open, Female Quota"
+8,9396,,AAHANA KANTH,Female,Parsa,,4700,,12,,,,,,,,,,,,,,,"Open, Female Quota"
+313,5751,,BIBEK CHAUDHARY,Male,Saptari,,4701,,1,2,10,12,,,,,,,,,,,,
+211,3324,,ARCHANA POKHREL,Female,Sankhuwasabha,,4730,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+514,7649,,HISHILA MAHARJAN,Female,Kathmandu,,4737,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+822,1558,,PRAMISA KC,Female,Rupandehi,,4753,,8,12,,,,,,,,,,,,,,"Open, Female Quota"
+823,7527,,PRAMISHA POUDEL,Female,Syangja,,4761,,1,3,,,,,,,,,,,,,,"Open, Female Quota"
+824,7527,,PRAMISHA POUDEL,Female,Syangja,,4761,,2,,,,,,,,,,,,,,,
+291,7627,,BEENEETA KAFLE,Female,Parbat,,4775,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+573,3961,,KHUSHBOO YADAV,Female,Mahottari,,4787,,1,2,,,,,,,,,,,,,,"Open, Female Quota"
+360,6789,,BINITA GURUNG,Female,Gorkha,,4816,,3,,,,,,,,,,,,,,,"Female, Adivashi/Janajati"
+138,7008,,AMISHA KARNA,Female,Dhanusha,,4821,,15,19,,,,,,,,,,,,,,"Female, Madheshi"
+160,5079,,ANISH YADAV,Male,Mahottari,,4839,,4,,,,,,,,,,,,,,,
+479,4994,,GARIMA KHADKA,Female,Achham,,4842,,1,,,,,,,,,,,,,,,"Female, Durgam Chettra"
+365,1979,,BINU DASAL,Female,Dolpa,,4844,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+508,5385,,HIMANI SHRESTHA,Female,Sindhupalchok,,4847,,19,15,16,20,,,,,,,,,,,,"Open, Female Quota"
+806,1326,,PRAJWAL GODAR,Male,Kaski,,4856,,4,,,,,,,,,,,,,,,
+1461,1251,,UJJWAL DAHAL,Male,Okhaldhunga,,4876,,1,,,,,,,,,,,,,,,Others
+1411,4331,,SUSHIL TAMANG,Male,Sindhupalchok,,4885,,2,10,,,,,,,,,,,,,,
+1318,35,,SUBARNA RAI,Male,Bhojpur,,4886,,10,20,,,,,,,,,,,,,,
+1469,8600,,UNISH PRAJAPATI,Male,Bhaktapur,,4897,,20,,,,,,,,,,,,,,,
+465,3690,,DIWAKAR KHATIWADA,Male,Nuwakot,,4918,,12,10,,,,,,,,,,,,,,
+1371,2574,,SUNIDHI SAH,Female,Dhanusha,,4926,,1,2,,,,,,,,,,,,,,"Open, Female Quota"
+142,1945,,AMMAR GHARTI MAGAR,Male,Banke,,4931,,19,7,9,,,,,,,,,,,,,Adivashi/Janajati
+1206,4558,,SEEMA TIMALSINA,Female,Sindhupalchok,,4936,,1,15,,,,,,,,,,,,,,"Open, Female Quota"
+477,7147,,GANGESH ORGYAN CHAUDHAR,Male,Saptari,,4952,,1,,,,,,,,,,,,,,,"Adivashi/Janajati, Tharu"
+1491,2931,,YASNA BHATTA,Female,Gorkha,,4953,,9,10,,,,,,,,,,,,,,"Open, Female Quota"
+1473,2103,,UPENDRA RANA,Male,Kanchanpur,,4961,,1,,,,,,,,,,,,,,,"Adivashi/Janajati, Tharu"
+924,7991,,RAHUL BHAGAT,Male,Udayapur,,4972,,11,12,2,,,,,,,,,,,,,
+1207,3510,,SEJAL BHANDARI,Female,Panchthar,,5000,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+1484,9364,,VHUSHAN UPADHAYA,Male,Jumla,,5017,,1,,,,,,,,,,,,,,,Durgam Chettra
+133,813,,AMAR KUMAR YADAV,Male,Rautahat,,5078,,1,2,,,,,,,,,,,,,,
+1313,8070,,SRISTI POUDEL,Female,Dhankuta,,5088,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+1314,8070,,SRISTI POUDEL,Female,Dhankuta,,5088,,12,,,,,,,,,,,,,,,
+1413,945,,SUSHMA G.C.,Female,Banke,,5107,,10,,,,,,,,,,,,,,,"Open, Female Quota"
+161,4309,,ANISHA SHRESTHA,Female,Sindhupalchok,,5129,,4,3,,,,,,,,,,,,,,"Open, Female Quota"
+1099,7561,,SAKSHI CHAUDHARY,Female,Siraha,,5139,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+947,1047,,RAJESH KUMAR SHAHI,Male,Mugu,,5168,,2,,,,,,,,,,,,,,,
+1435,1306,,SWASTIKA SHRESTHA,Female,Lalitpur,,5169,,4,8,,,,,,,,,,,,,,"Open, Female Quota"
+460,4987,,DIPESH KUMAR YADAV,Male,Dang,,5208,,10,,,,,,,,,,,,,,,
+482,186,,GARIMA SHAH,Female,Dhanusha,,5213,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+343,6093,,BIKESH SAPKOTA,Male,Jhapa,,5235,,20,,,,,,,,,,,,,,,
+206,5361,,ANUSUYA ADHIKARI,Female,Kaski,,5239,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+96,5590,,ABISHEK LAKSAM,Male,Panchthar,,5242,,9,,,,,,,,,,,,,,,Adivashi/Janajati
+97,5590,,ABISHEK LAKSAM,Male,Panchthar,,5242,,10,20,,,,,,,,,,,,,,
+136,2920,,AMBANI MANDAL,Female,Saptari,,5304,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+940,1659,,RAJAN PANDEY,Male,Arghakhanchi,,5332,,8,16,,,,,,,,,,,,,,
+463,1765,,DIPRAJ PYAKUREL,Male,Nuwakot,,5339,,2,,,,,,,,,,,,,,,
+1426,576,,SUYASH NIRAULA,Male,Sindhuli,,5341,,20,,,,,,,,,,,,,,,
+345,1467,,BIKRAM SINGH PARKI,Male,Kailali,,5364,,1,,,,,,,,,,,,,,,
+1109,2798,,SAMIKSHA SHRESTHA,Female,Kathmandu,,5382,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+1110,2798,,SAMIKSHA SHRESTHA,Female,Kathmandu,,5382,,3,,,,,,,,,,,,,,,
+126,4807,,ALOK KARNA,Male,Dhanusha,,5386,,2,,,,,,,,,,,,,,,
+799,870,,PRAGYA GELAL,Female,Morang,,5389,,15,19,9,,,,,,,,,,,,,Female
+655,6051,,MARIYAM SAHEWA,Female,Rautahat,,5394,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+612,7409,,KUNAL THAKUR,Male,Dhanusha,,5407,,8,,,,,,,,,,,,,,,
+661,2645,,MHENDOK PHUTIK LAMA,Female,Mugu,,5423,,1,2,,,,,,,,,,,,,,"Open, Female Quota"
+292,5544,,BEJIL MAHARJAN,Female,Kathmandu,,5439,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+49,9150,,AAYUSH BASHYAL,Male,Nawalparasi East,,5467,,16,,,,,,,,,,,,,,,
+863,3374,,PRATIGYA NEUPANE,Female,Rupandehi,,5525,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+1014,1602,,ROHIT SHAH,Male,Saptari,,5531,,2,,,,,,,,,,,,,,,
+906,6032,,PUSPA KUMARI SAH,Female,Mahottari,,5543,,12,,,,,,,,,,,,,,,"Open, Female Quota"
+602,6491,,KRITIKA KANTH,Female,Parsa,,5585,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+1134,427,,SAMYOG HANG LINGDEN,Male,Jhapa,,5587,,12,11,,,,,,,,,,,,,,
+399,6386,,CHANDNI GHALE,Female,Nuwakot,,5608,,10,,,,,,,,,,,,,,,"Open, Female Quota"
+494,7739,,GIRISH NAPIT,Male,Lalitpur,,5615,,9,10,19,20,,,,,,,,,,,,
+857,4988,,PRASHUNA THAPA,Female,Lalitpur,,5618,,16,,,,,,,,,,,,,,,"Open, Female Quota"
+977,1189,,RIFAT ANSARI,Female,Banke,,5624,,3,,,,,,,,,,,,,,,"Open, Female Quota"
+983,672,,RITESH KHATIWADA,Male,Terhathum,,5643,,2,,,,,,,,,,,,,,,
+295,3302,,BHAWANA KUMARI SAH,Female,Dhanusha,,5648,,11,,,,,,,,,,,,,,,"Female, Madheshi"
+1091,3183,,SAIPHAL DHAKAL,Male,Kavrepalanchok,,5751,,2,,,,,,,,,,,,,,,
+588,4996,,KRISHMA BHUSAL,Female,Gulmi,,5766,,3,4,,,,,,,,,,,,,,"Open, Female Quota"
+1149,334,,SANDIP MAHAT,Male,Humla,,5805,,11,,,,,,,,,,,,,,,
+719,6261,,NIRAJAN SAH,Male,Dhanusha,,5812,,12,,,,,,,,,,,,,,,
+929,3855,,RAHUL YADAV,Male,Sarlahi,,5836,,2,,,,,,,,,,,,,,,
+1263,1099,,SHRISTI SHAHI,Female,Kailali,,5887,,12,,,,,,,,,,,,,,,"Open, Female Quota"
+1415,9260,,SUSHMITA SHARMA,Female,Siraha,,5891,,10,9,,,,,,,,,,,,,,"Open, Female Quota"
+224,7313,,ARYA JHA,Female,Siraha,,5916,,1,,,,,,,,,,,,,,,"Female, Madheshi, Apanga"
+603,6686,,KRITIKA NEUPANE,Female,Banke,,5942,,10,16,,,,,,,,,,,,,,"Open, Female Quota"
+174,7648,,ANMOL AYER,Male,Dadeldhura,,5973,,10,11,12,20,,,,,,,,,,,,
+811,609,,PRAJWOL BASNET,Male,Kathmandu,,5985,,20,,,,,,,,,,,,,,,
+104,8649,,ADITYA MAJHI,Male,Morang,,5999,,12,,,,,,,,,,,,,,,
+701,2038,,NIGAH CHALISE,Female,Kathmandu,,6003,,11,7,12,8,,,,,,,,,,,,"Open, Female Quota"
+1155,5682,,SANGBU BHOTE,Male,Sankhuwasabha,,6042,,1,,,,,,,,,,,,,,,"Adivashi/Janajati, Durgam Chettra"
+666,3410,,MIRA ALE,Female,Palpa,,6056,,12,8,,,,,,,,,,,,,,"Open, Female Quota"
+988,4315,,RITSA PAKHRIN,Female,Kathmandu,,6062,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+1190,9166,,SAUGAT CHAMLING RAI,Male,Dhankuta,,6063,,4,2,,,,,,,,,,,,,,
+944,3689,,RAJENDRA BUDHA,Male,Bajura,,6069,,1,,,,,,,,,,,,,,,Durgam Chettra
+635,7268,,MAHIMA SHAH,Female,Mahottari,,6072,,8,,,,,,,,,,,,,,,"Open, Female Quota"
+513,788,,HINA TAMRAKAR,Female,Lalitpur,,6076,,12,,,,,,,,,,,,,,,"Open, Female Quota"
+562,2632,,KAPUR MAHATO,Male,Nawalparasi East,,6084,,2,12,,,,,,,,,,,,,,
+621,4114,,LAKPA DORJE TAMANG,Male,Jhapa,,6107,,3,,,,,,,,,,,,,,,
+1308,6784,,SRASTA SHRESTHA,Female,Chitawan,,6118,,16,,,,,,,,,,,,,,,"Open, Female Quota"
+1309,6784,,SRASTA SHRESTHA,Female,Chitawan,,6118,,16,,,,,,,,,,,,,,,
+154,5733,,ANIMESH MAHARJAN,Male,Kathmandu,,6157,,20,,,,,,,,,,,,,,,
+928,7372,,RAHUL THAKUR,Male,Dhanusha,,6169,,2,,,,,,,,,,,,,,,
+57,731,,AAYUSH PANDEY,Male,Kathmandu,,6208,,10,20,,,,,,,,,,,,,,
+1261,7927,,SHRIJAN BISHWOKARMA,Male,Sindhuli,,6219,,1,,,,,,,,,,,,,,,Dalit
+90,1273,,ABHUSHAN THAPA,Male,Arghakhanchi,,6273,,12,,,,,,,,,,,,,,,
+550,6011,,JHARANA GAUTAM,Female,Morang,,6307,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+274,3702,,AYUSH SHAKYA,Male,Sankhuwasabha,,6319,,10,20,,,,,,,,,,,,,,
+1069,4539,,SADIKSHA CHHETRI,Female,Parbat,,6325,,15,,,,,,,,,,,,,,,Female
+308,5896,,BIBEK BALAMI,Male,Makwanpur,,6346,,1,,,,,,,,,,,,,,,Adivashi/Janajati
+301,478,,BHUPESH BARTAULA,Male,Makwanpur,,6416,,12,,,,,,,,,,,,,,,
+41,3676,,AASTHA KARN,Female,Siraha,,6421,,11,12,7,8,,,,,,,,,,,,"Open, Female Quota"
+741,3422,,NISHANT YADAV,Male,Saptari,,6432,,10,,,,,,,,,,,,,,,
+213,3399,,ARINA PURI,Female,Sunsari,,6447,,11,12,,,,,,,,,,,,,,"Open, Female Quota"
+729,6405,,NIRMAN NEUPANE,Male,Gorkha,,6454,,10,16,20,,,,,,,,,,,,,
+1388,8682,,SUPRIYA TANDUKAR,Female,Bhaktapur,,6468,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+352,4564,,BINAYA GURUNG,Male,Okhaldhunga,,6471,,1,2,,,,,,,,,,,,,,
+451,8165,,DIPAK CHAUDHARY,Male,Bara,,6477,,15,,,,,,,,,,,,,,,
+235,4814,,ASHMITA KHADKA,Female,Ilam,,6540,,4,2,,,,,,,,,,,,,,"Open, Female Quota"
+662,6437,,MICHLE TAMRAKAR,Male,Dadeldhura,,6541,,1,,,,,,,,,,,,,,,Dalit
+888,4518,,PRERANA CHAULAGAIN,Female,Kavrepalanchok,,6569,,3,,,,,,,,,,,,,,,"Open, Female Quota"
+692,8837,,NAUSHAD ANSARI,Male,Rautahat,,6612,,11,7,3,,,,,,,,,,,,,
+568,7973,,KAUSHAL KUMAR THARU,Male,Saptari,,6622,,1,,,,,,,,,,,,,,,Tharu
+795,8492,,PRADIP RAJ TIWARI,Male,Bhojpur,,6640,,12,,,,,,,,,,,,,,,
+1470,2114,,UPAMA GIRI,Female,Kathmandu,,6659,,1,11,,,,,,,,,,,,,,Female
+1471,2114,,UPAMA GIRI,Female,Kathmandu,,6659,,2,12,,,,,,,,,,,,,,"Open, Female Quota"
+1281,4410,,SIRIS BASAULA,Female,Dhading,,6686,,4,,,,,,,,,,,,,,,"Open, Female Quota"
+1224,886,,SHILPA THAPA MAGAR,Female,Bara,,6704,,12,16,,,,,,,,,,,,,,"Open, Female Quota"
+1374,7437,,SUNIL DHAMALA,Male,Gorkha,,6706,,2,,,,,,,,,,,,,,,
+317,3435,,BIBEK KUMAR YADAV,Male,Dhanusha,,6707,,2,10,,,,,,,,,,,,,,

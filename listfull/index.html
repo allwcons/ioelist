@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <script src="college.js"></script>
+</head>
+
+<body>
+  <script defer src="index.js"></script>
+  <h2 style="margin-top: 80px;font-family: system-ui;">Disclaimer</h2>
+  <div
+    style="text-align: center;background-color: #f14141;font-size:1.2em;padding-inline: 10px;padding-block: 10px;letter-spacing: 2px;color:white;">
+    This website displays data collected from four colleges: Pulchowk, Thapathali, Purwanchal, and Paschimanchal.
+    <br />
+    Please note that this data has not been officially published by the colleges and is for informational purposes only.
+  </div>
+  <div class="buttons">
+    <button onclick="handleCollege(this.innerText,this)">pulchowk</button>
+    <button onclick="handleCollege(this.innerText,this)">thapathali</button>
+    <button onclick="handleCollege(this.innerText,this)">purwanchal</button>
+    <button onclick="handleCollege(this.innerText,this)">paschimanchal</button>
+  </div>
+  <div class="college">
+  </div>
+  <div id="container"></div>
+</body>
+<script defer src="list.js"></script>
+
+</html>

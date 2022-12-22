@@ -1,0 +1,155 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  margin:0;
+}
+
+ul{
+  list-style:none;
+  margin:0;
+  padding:0;
+}
+span{
+  margin-right:10px;
+  margin-block:10px;
+}
+ul{
+  display:flex;
+  width:100%;
+  justify-content:center;
+  align-items:center;
+  flex-direction:column;
+  height:0;
+  overflow: hidden;
+}
+.opened{
+  animation-name: open;
+  animation-timing-function: ease-in-out;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+}
+@keyframes open{
+  from{
+    height:0%;
+  }
+  to{
+    height:100%;
+  }
+}
+
+.opened_t{
+  position: sticky;
+  top:38px;  
+    background-color: #883afd;
+  z-index:50;
+}
+li {
+  background-color: #f2f2f2;
+  border: 1px solid #ddd;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px;
+  padding: 10px;
+  max-width: 500px;
+  font-size: 1.2em;
+  width:100%
+}
+@media only screen and (max-width:570px){
+  li span{
+    margin-left: 20px;
+  }
+}
+h2{
+  margin-top:50px;
+  text-align:center;
+  font-family:system-ui;
+}
+
+.full li{
+  background-color: #e5e5
+}
+
+
+h2 {
+  margin: 50px 0 20px;
+  text-align: center;
+  font-family: 'System UI', sans-serif;
+  font-size: 1.5em;
+}
+
+p {
+  height: 60px;
+  background-color: #9c62f4;
+  margin: 0;
+  text-align: center;
+  line-height: 60px;
+  font-size: 1.2em;
+  font-family: 'System UI', sans-serif;
+  font-weight: bold;
+  color: white;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 4px;
+  margin-block: 4px;
+  cursor: pointer;
+  position: relative;
+}
+p:hover{
+  background-color: #b381fd;
+}
+p:after{
+  content: "+";
+    position: absolute;
+    right: 0;
+    margin-right: 30px;
+    font-size: 1.5em;
+}
+.opened_t:after{
+  content: "-";
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+  gap:10px;
+  margin-top: 70px;
+  flex-wrap: wrap;
+}
+
+button {
+  background-color: #3498db;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-size: 1em;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
+.college{
+  background-color:tomato;
+  padding-block: 10px;
+  text-align: center;
+  position:fixed;
+  top:0;
+  width:100%;
+  z-index: 100;
+  font-size:1.3em;
+  font-family: system-ui;
+}
+.rank{
+  background-color: white;
+  text-align: center;
+  padding-inline:10px;
+  box-sizing: border-box;
+  border-radius: 100px;
+}
+button.active{
+  background-color: #ff00dd;
+}
